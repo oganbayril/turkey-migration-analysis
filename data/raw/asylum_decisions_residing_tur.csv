@@ -1,0 +1,903 @@
+Year,Country of Origin Code,Country of Asylum Code,Country of Origin Name,Country of Asylum Name,Procedure Type,Procedure Name,Decision Type Code,Decision Data Type,Decision Data,Decisions Average Persons Per Case,Recognized,Complementary Protection,Otherwise Closed,Rejected,Total Decided
+#date+year,#country+code+origin,#country+code+asylum,#country+name+origin,#country+name+asylum,#indicator+procedure_type,#indicator+procedure+name,#indicator+decision_type+code,#indicator+decision_data_type,#indicator+decision_data,#indicator+decision_average_persons+num,#inneed+asylum_seekers+recognized,#inneed+asylum_seekers+recognized_other,#inneed+asylum_seekers+otherwise_closed,#inneed+asylum_seekers+rejected,#inneed+asylum_seekers+total_decided
+2000,AFG,TUR,Afghanistan,Türkiye,U,UNHCR,FI,P,Persons,0,29,0,49,24,102
+2000,DZA,TUR,Algeria,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,5,0,5
+2000,CHN,TUR,China,Türkiye,U,UNHCR,FI,P,Persons,0,14,0,0,0,14
+2000,ERI,TUR,Eritrea,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,0,14,14
+2000,ETH,TUR,Ethiopia,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,16,10,26
+2000,PSE,TUR,State of Palestine,Türkiye,U,UNHCR,FI,P,Persons,0,14,0,0,0,14
+2000,IRN,TUR,Iran (Islamic Republic of),Türkiye,U,UNHCR,FI,P,Persons,0,2197,0,528,774,3499
+2000,IRQ,TUR,Iraq,Türkiye,U,UNHCR,FI,P,Persons,0,454,0,563,865,1882
+2000,NGA,TUR,Nigeria,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,5,0,5
+2000,PAK,TUR,Pakistan,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,5,0,5
+2000,SLE,TUR,Sierra Leone,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,0,5,5
+2000,SOM,TUR,Somalia,Türkiye,U,UNHCR,FI,P,Persons,0,11,0,0,0,11
+2000,SDN,TUR,Sudan,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,5,0,5
+2000,TUN,TUR,Tunisia,Türkiye,U,UNHCR,FI,P,Persons,0,5,0,0,0,5
+2000,UZB,TUR,Uzbekistan,Türkiye,U,UNHCR,FI,P,Persons,0,5,0,0,0,5
+2001,AFG,TUR,Afghanistan,Türkiye,U,UNHCR,FI,P,Persons,0,107,0,42,21,170
+2001,DZA,TUR,Algeria,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,10,0,10
+2001,EGY,TUR,Egypt,Türkiye,U,UNHCR,FI,P,Persons,0,11,0,0,0,11
+2001,CHN,TUR,China,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,16,5,21
+2001,COG,TUR,Congo,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,5,0,5
+2001,ERI,TUR,Eritrea,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,5,0,5
+2001,ETH,TUR,Ethiopia,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,5,5,10
+2001,PSE,TUR,State of Palestine,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,5,0,5
+2001,IRN,TUR,Iran (Islamic Republic of),Türkiye,U,UNHCR,FI,P,Persons,0,2248,0,512,967,3727
+2001,IRQ,TUR,Iraq,Türkiye,U,UNHCR,FI,P,Persons,0,455,0,450,1074,1979
+2001,JOR,TUR,Jordan,Türkiye,U,UNHCR,FI,P,Persons,0,5,0,0,5,10
+2001,KAZ,TUR,Kazakhstan,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,0,5,5
+2001,KEN,TUR,Kenya,Türkiye,U,UNHCR,FI,P,Persons,0,5,0,0,0,5
+2001,LBY,TUR,Libya,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,5,0,5
+2001,LKA,TUR,Sri Lanka,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,11,0,11
+2001,NGA,TUR,Nigeria,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,5,0,5
+2001,PAK,TUR,Pakistan,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,5,0,5
+2001,RWA,TUR,Rwanda,Türkiye,U,UNHCR,FI,P,Persons,0,5,0,0,0,5
+2001,SLE,TUR,Sierra Leone,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,5,0,5
+2001,SOM,TUR,Somalia,Türkiye,U,UNHCR,FI,P,Persons,0,10,0,5,10,25
+2001,SDN,TUR,Sudan,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,5,0,5
+2001,SYR,TUR,Syrian Arab Republic,Türkiye,U,UNHCR,FI,P,Persons,0,5,0,5,0,10
+2001,TJK,TUR,Tajikistan,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,10,0,10
+2001,UZB,TUR,Uzbekistan,Türkiye,U,UNHCR,FI,P,Persons,0,17,0,0,10,27
+2002,AFG,TUR,Afghanistan,Türkiye,U,UNHCR,FI,P,Persons,0,54,0,134,86,274
+2002,DZA,TUR,Algeria,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,13,0,13
+2002,EGY,TUR,Egypt,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,5,0,5
+2002,CHN,TUR,China,Türkiye,U,UNHCR,FI,P,Persons,0,16,0,13,20,49
+2002,COD,TUR,Democratic Republic of the Congo,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,5,14,19
+2002,ERI,TUR,Eritrea,Türkiye,U,UNHCR,FI,P,Persons,0,5,0,0,0,5
+2002,ETH,TUR,Ethiopia,Türkiye,U,UNHCR,FI,P,Persons,0,5,0,0,0,5
+2002,PSE,TUR,State of Palestine,Türkiye,U,UNHCR,FI,P,Persons,0,17,0,5,5,27
+2002,IRN,TUR,Iran (Islamic Republic of),Türkiye,U,UNHCR,FI,P,Persons,0,2380,0,126,982,3488
+2002,IRQ,TUR,Iraq,Türkiye,U,UNHCR,FI,P,Persons,0,356,0,171,803,1330
+2002,KEN,TUR,Kenya,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,0,17,17
+2002,LKA,TUR,Sri Lanka,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,23,12,35
+2002,NGA,TUR,Nigeria,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,5,5,10
+2002,PAK,TUR,Pakistan,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,5,0,5
+2002,SLE,TUR,Sierra Leone,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,0,5,5
+2002,SOM,TUR,Somalia,Türkiye,U,UNHCR,FI,P,Persons,0,16,0,5,5,26
+2002,STA,TUR,Stateless,Türkiye,U,UNHCR,FI,P,Persons,0,5,0,0,0,5
+2002,SDN,TUR,Sudan,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,5,0,5
+2002,SYR,TUR,Syrian Arab Republic,Türkiye,U,UNHCR,FI,P,Persons,0,11,0,0,0,11
+2002,TUN,TUR,Tunisia,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,10,0,10
+2002,UZB,TUR,Uzbekistan,Türkiye,U,UNHCR,FI,P,Persons,0,27,0,0,5,32
+2003,AFG,TUR,Afghanistan,Türkiye,U,UNHCR,FI,P,Persons,0,53,0,23,37,113
+2003,CHN,TUR,China,Türkiye,U,UNHCR,FI,P,Persons,0,21,0,0,10,31
+2003,COD,TUR,Democratic Republic of the Congo,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,11,0,11
+2003,ERI,TUR,Eritrea,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,0,13,13
+2003,ETH,TUR,Ethiopia,Türkiye,U,UNHCR,FI,P,Persons,0,5,0,5,5,15
+2003,PSE,TUR,State of Palestine,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,5,5,10
+2003,IRN,TUR,Iran (Islamic Republic of),Türkiye,U,UNHCR,FI,P,Persons,0,2009,0,0,380,2389
+2003,IRQ,TUR,Iraq,Türkiye,U,UNHCR,FI,P,Persons,0,198,0,146,20,364
+2003,JOR,TUR,Jordan,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,5,0,5
+2003,KEN,TUR,Kenya,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,5,0,5
+2003,LBY,TUR,Libya,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,5,0,5
+2003,LBN,TUR,Lebanon,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,5,0,5
+2003,LKA,TUR,Sri Lanka,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,5,0,5
+2003,MAR,TUR,Morocco,Türkiye,U,UNHCR,FI,P,Persons,0,5,0,0,0,5
+2003,PAK,TUR,Pakistan,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,0,10,10
+2003,SOM,TUR,Somalia,Türkiye,U,UNHCR,FI,P,Persons,0,20,0,25,5,50
+2003,SDN,TUR,Sudan,Türkiye,U,UNHCR,FI,P,Persons,0,12,0,0,0,12
+2003,SYR,TUR,Syrian Arab Republic,Türkiye,U,UNHCR,FI,P,Persons,0,5,0,0,0,5
+2003,TUN,TUR,Tunisia,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,0,5,5
+2003,UZB,TUR,Uzbekistan,Türkiye,U,UNHCR,FI,P,Persons,0,16,0,0,5,21
+2004,AFG,TUR,Afghanistan,Türkiye,U,UNHCR,FI,P,Persons,0,27,0,0,28,55
+2004,DZA,TUR,Algeria,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,0,5,5
+2004,AZE,TUR,Azerbaijan,Türkiye,U,UNHCR,FI,P,Persons,0,5,0,0,0,5
+2004,CHN,TUR,China,Türkiye,U,UNHCR,FI,P,Persons,0,5,0,0,0,5
+2004,ERI,TUR,Eritrea,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,0,14,14
+2004,ETH,TUR,Ethiopia,Türkiye,U,UNHCR,FI,P,Persons,0,5,0,0,28,33
+2004,PSE,TUR,State of Palestine,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,0,10,10
+2004,IRN,TUR,Iran (Islamic Republic of),Türkiye,U,UNHCR,FI,P,Persons,0,1530,0,0,1340,2870
+2004,IRQ,TUR,Iraq,Türkiye,U,UNHCR,FI,P,Persons,0,11,0,0,92,103
+2004,LKA,TUR,Sri Lanka,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,0,10,10
+2004,MRT,TUR,Mauritania,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,0,5,5
+2004,MAR,TUR,Morocco,Türkiye,U,UNHCR,FI,P,Persons,0,5,0,0,5,10
+2004,PAK,TUR,Pakistan,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,0,5,5
+2004,SLE,TUR,Sierra Leone,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,0,5,5
+2004,SOM,TUR,Somalia,Türkiye,U,UNHCR,FI,P,Persons,0,78,0,0,150,228
+2004,SDN,TUR,Sudan,Türkiye,U,UNHCR,FI,P,Persons,0,5,0,0,38,43
+2004,SYR,TUR,Syrian Arab Republic,Türkiye,U,UNHCR,FI,P,Persons,0,5,0,0,0,5
+2004,UZB,TUR,Uzbekistan,Türkiye,U,UNHCR,FI,P,Persons,0,12,0,0,0,12
+2005,AFG,TUR,Afghanistan,Türkiye,U,UNHCR,FI,P,Persons,0,58,0,351,29,438
+2005,DZA,TUR,Algeria,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,10,0,10
+2005,EGY,TUR,Egypt,Türkiye,U,UNHCR,FI,P,Persons,0,5,0,0,0,5
+2005,BDI,TUR,Burundi,Türkiye,U,UNHCR,FI,P,Persons,0,5,0,0,0,5
+2005,CHN,TUR,China,Türkiye,U,UNHCR,FI,P,Persons,0,15,0,22,0,37
+2005,COD,TUR,Democratic Republic of the Congo,Türkiye,U,UNHCR,FI,P,Persons,0,5,0,5,0,10
+2005,ERI,TUR,Eritrea,Türkiye,U,UNHCR,FI,P,Persons,0,5,0,14,0,19
+2005,ETH,TUR,Ethiopia,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,19,5,24
+2005,PSE,TUR,State of Palestine,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,22,0,22
+2005,IRN,TUR,Iran (Islamic Republic of),Türkiye,U,UNHCR,FI,P,Persons,0,1106,0,288,307,1701
+2005,IRQ,TUR,Iraq,Türkiye,U,UNHCR,FI,P,Persons,0,33,0,276,0,309
+2005,KGZ,TUR,Kyrgyzstan,Türkiye,U,UNHCR,FI,P,Persons,0,5,0,5,0,10
+2005,LKA,TUR,Sri Lanka,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,5,0,5
+2005,MAR,TUR,Morocco,Türkiye,U,UNHCR,FI,P,Persons,0,5,0,0,0,5
+2005,MMR,TUR,Myanmar,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,5,0,5
+2005,NGA,TUR,Nigeria,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,10,0,10
+2005,SOM,TUR,Somalia,Türkiye,U,UNHCR,FI,P,Persons,0,82,0,152,16,250
+2005,SDN,TUR,Sudan,Türkiye,U,UNHCR,FI,P,Persons,0,5,0,35,5,45
+2005,SYR,TUR,Syrian Arab Republic,Türkiye,U,UNHCR,FI,P,Persons,0,12,0,0,5,17
+2005,TKM,TUR,Turkmenistan,Türkiye,U,UNHCR,FI,P,Persons,0,5,0,0,0,5
+2005,TUN,TUR,Tunisia,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,5,0,5
+2005,UZB,TUR,Uzbekistan,Türkiye,U,UNHCR,FI,P,Persons,0,29,0,0,5,34
+2005,ESH,TUR,Western Sahara,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,5,0,5
+2005,YEM,TUR,Yemen,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,5,0,5
+2006,AFG,TUR,Afghanistan,Türkiye,U,UNHCR,AR,P,Persons,0,22,0,0,0,22
+2006,AFG,TUR,Afghanistan,Türkiye,U,UNHCR,FI,P,Persons,0,23,0,130,56,209
+2006,AFG,TUR,Afghanistan,Türkiye,U,UNHCR,RA,P,Persons,0,0,0,0,5,5
+2006,DZA,TUR,Algeria,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,5,0,5
+2006,AZE,TUR,Azerbaijan,Türkiye,U,UNHCR,FI,P,Persons,0,5,0,0,0,5
+2006,CHN,TUR,China,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,21,0,21
+2006,COD,TUR,Democratic Republic of the Congo,Türkiye,U,UNHCR,AR,P,Persons,0,0,0,0,5,5
+2006,COD,TUR,Democratic Republic of the Congo,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,5,0,5
+2006,ERI,TUR,Eritrea,Türkiye,U,UNHCR,AR,P,Persons,0,5,0,0,0,5
+2006,ERI,TUR,Eritrea,Türkiye,U,UNHCR,FI,P,Persons,0,5,0,0,5,10
+2006,ETH,TUR,Ethiopia,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,21,5,26
+2006,PSE,TUR,State of Palestine,Türkiye,U,UNHCR,FI,P,Persons,0,11,0,12,0,23
+2006,CIV,TUR,Côte d'Ivoire,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,5,0,5
+2006,IRN,TUR,Iran (Islamic Republic of),Türkiye,U,UNHCR,AR,P,Persons,0,185,0,0,112,297
+2006,IRN,TUR,Iran (Islamic Republic of),Türkiye,U,UNHCR,FI,P,Persons,0,1373,0,213,293,1879
+2006,IRN,TUR,Iran (Islamic Republic of),Türkiye,U,UNHCR,RA,P,Persons,0,76,0,0,26,102
+2006,IRQ,TUR,Iraq,Türkiye,U,UNHCR,AR,P,Persons,0,5,0,0,0,5
+2006,IRQ,TUR,Iraq,Türkiye,U,UNHCR,FI,P,Persons,0,36,0,318,0,354
+2006,IRQ,TUR,Iraq,Türkiye,U,UNHCR,RA,P,Persons,0,10,0,0,0,10
+2006,KAZ,TUR,Kazakhstan,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,0,5,5
+2006,LBR,TUR,Liberia,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,5,0,5
+2006,LBY,TUR,Libya,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,5,0,5
+2006,LBN,TUR,Lebanon,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,5,0,5
+2006,LKA,TUR,Sri Lanka,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,10,0,10
+2006,MRT,TUR,Mauritania,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,23,5,28
+2006,NGA,TUR,Nigeria,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,0,5,5
+2006,SLE,TUR,Sierra Leone,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,5,0,5
+2006,SOM,TUR,Somalia,Türkiye,U,UNHCR,AR,P,Persons,0,12,0,0,36,48
+2006,SOM,TUR,Somalia,Türkiye,U,UNHCR,FI,P,Persons,0,108,0,303,110,521
+2006,SDN,TUR,Sudan,Türkiye,U,UNHCR,AR,P,Persons,0,0,0,0,5,5
+2006,SDN,TUR,Sudan,Türkiye,U,UNHCR,FI,P,Persons,0,10,0,54,12,76
+2006,SYR,TUR,Syrian Arab Republic,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,10,0,10
+2006,TKM,TUR,Turkmenistan,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,0,5,5
+2006,TUN,TUR,Tunisia,Türkiye,U,UNHCR,AR,P,Persons,0,0,0,0,5,5
+2006,UZB,TUR,Uzbekistan,Türkiye,U,UNHCR,FI,P,Persons,0,5,0,0,0,5
+2007,AFG,TUR,Afghanistan,Türkiye,U,UNHCR,AR,P,Persons,0,17,0,0,18,35
+2007,AFG,TUR,Afghanistan,Türkiye,U,UNHCR,FI,P,Persons,0,149,0,187,19,355
+2007,CHN,TUR,China,Türkiye,U,UNHCR,FI,P,Persons,0,5,0,24,0,29
+2007,COD,TUR,Democratic Republic of the Congo,Türkiye,U,UNHCR,FI,P,Persons,0,5,0,16,15,36
+2007,ERI,TUR,Eritrea,Türkiye,U,UNHCR,AR,P,Persons,0,0,0,0,5,5
+2007,ERI,TUR,Eritrea,Türkiye,U,UNHCR,FI,P,Persons,0,13,0,42,5,60
+2007,ERI,TUR,Eritrea,Türkiye,U,UNHCR,RA,P,Persons,0,0,0,5,0,5
+2007,ETH,TUR,Ethiopia,Türkiye,U,UNHCR,AR,P,Persons,0,0,0,11,5,16
+2007,ETH,TUR,Ethiopia,Türkiye,U,UNHCR,FI,P,Persons,0,5,0,33,17,55
+2007,PSE,TUR,State of Palestine,Türkiye,U,UNHCR,AR,P,Persons,0,0,0,5,0,5
+2007,PSE,TUR,State of Palestine,Türkiye,U,UNHCR,FI,P,Persons,0,13,0,30,5,48
+2007,GIN,TUR,Guinea,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,5,0,5
+2007,CIV,TUR,Côte d'Ivoire,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,15,5,20
+2007,IRN,TUR,Iran (Islamic Republic of),Türkiye,U,UNHCR,AR,P,Persons,0,76,0,121,68,265
+2007,IRN,TUR,Iran (Islamic Republic of),Türkiye,U,UNHCR,FI,P,Persons,0,1452,0,309,138,1899
+2007,IRN,TUR,Iran (Islamic Republic of),Türkiye,U,UNHCR,RA,P,Persons,0,61,0,0,16,77
+2007,IRQ,TUR,Iraq,Türkiye,U,UNHCR,AR,P,Persons,0,27,0,30,0,57
+2007,IRQ,TUR,Iraq,Türkiye,U,UNHCR,FI,P,Persons,0,4442,0,499,0,4941
+2007,IRQ,TUR,Iraq,Türkiye,U,UNHCR,RA,P,Persons,0,80,0,22,0,102
+2007,KAZ,TUR,Kazakhstan,Türkiye,U,UNHCR,AR,P,Persons,0,0,0,0,5,5
+2007,KAZ,TUR,Kazakhstan,Türkiye,U,UNHCR,RA,P,Persons,0,0,0,5,0,5
+2007,LBR,TUR,Liberia,Türkiye,U,UNHCR,AR,P,Persons,0,0,0,5,0,5
+2007,LBR,TUR,Liberia,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,0,12,12
+2007,LKA,TUR,Sri Lanka,Türkiye,U,UNHCR,FI,P,Persons,0,5,0,47,0,52
+2007,MRT,TUR,Mauritania,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,13,5,18
+2007,MAR,TUR,Morocco,Türkiye,U,UNHCR,FI,P,Persons,0,5,0,12,0,17
+2007,PAK,TUR,Pakistan,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,5,0,5
+2007,SOM,TUR,Somalia,Türkiye,U,UNHCR,AR,P,Persons,0,23,0,22,12,57
+2007,SOM,TUR,Somalia,Türkiye,U,UNHCR,FI,P,Persons,0,594,0,268,119,981
+2007,SOM,TUR,Somalia,Türkiye,U,UNHCR,RA,P,Persons,0,0,0,5,0,5
+2007,SDN,TUR,Sudan,Türkiye,U,UNHCR,AR,P,Persons,0,0,0,5,5,10
+2007,SDN,TUR,Sudan,Türkiye,U,UNHCR,FI,P,Persons,0,19,0,51,30,100
+2007,SYR,TUR,Syrian Arab Republic,Türkiye,U,UNHCR,AR,P,Persons,0,0,0,5,0,5
+2007,SYR,TUR,Syrian Arab Republic,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,5,5,10
+2007,TUN,TUR,Tunisia,Türkiye,U,UNHCR,FI,P,Persons,0,5,0,0,0,5
+2007,UZB,TUR,Uzbekistan,Türkiye,U,UNHCR,FI,P,Persons,0,49,0,5,0,54
+2007,UZB,TUR,Uzbekistan,Türkiye,U,UNHCR,RA,P,Persons,0,5,0,0,0,5
+2008,AFG,TUR,Afghanistan,Türkiye,U,UNHCR,AR,P,Persons,0,42,0,64,5,111
+2008,AFG,TUR,Afghanistan,Türkiye,U,UNHCR,FI,P,Persons,0,144,0,309,113,566
+2008,BDI,TUR,Burundi,Türkiye,U,UNHCR,AR,P,Persons,0,0,0,5,0,5
+2008,BDI,TUR,Burundi,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,5,0,5
+2008,BGD,TUR,Bangladesh,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,5,0,5
+2008,CAF,TUR,Central African Republic,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,5,0,5
+2008,CHN,TUR,China,Türkiye,U,UNHCR,AR,P,Persons,0,0,0,5,0,5
+2008,CHN,TUR,China,Türkiye,U,UNHCR,FI,P,Persons,0,5,0,29,0,34
+2008,CMR,TUR,Cameroon,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,5,0,5
+2008,COG,TUR,Congo,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,5,0,5
+2008,COD,TUR,Democratic Republic of the Congo,Türkiye,U,UNHCR,AR,P,Persons,0,5,0,31,0,36
+2008,COD,TUR,Democratic Republic of the Congo,Türkiye,U,UNHCR,FI,P,Persons,0,5,0,62,12,79
+2008,ERI,TUR,Eritrea,Türkiye,U,UNHCR,AR,P,Persons,0,5,0,10,0,15
+2008,ERI,TUR,Eritrea,Türkiye,U,UNHCR,FI,P,Persons,0,13,0,40,5,58
+2008,ETH,TUR,Ethiopia,Türkiye,U,UNHCR,AR,P,Persons,0,0,0,20,11,31
+2008,ETH,TUR,Ethiopia,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,46,5,51
+2008,PSE,TUR,State of Palestine,Türkiye,U,UNHCR,AR,P,Persons,0,0,0,12,0,12
+2008,PSE,TUR,State of Palestine,Türkiye,U,UNHCR,FI,P,Persons,0,58,0,112,14,184
+2008,GIN,TUR,Guinea,Türkiye,U,UNHCR,AR,P,Persons,0,0,0,5,0,5
+2008,GIN,TUR,Guinea,Türkiye,U,UNHCR,FI,P,Persons,0,5,0,17,0,22
+2008,CIV,TUR,Côte d'Ivoire,Türkiye,U,UNHCR,AR,P,Persons,0,0,0,11,0,11
+2008,CIV,TUR,Côte d'Ivoire,Türkiye,U,UNHCR,FI,P,Persons,0,5,0,5,5,15
+2008,IRN,TUR,Iran (Islamic Republic of),Türkiye,U,UNHCR,AR,P,Persons,0,109,0,103,95,307
+2008,IRN,TUR,Iran (Islamic Republic of),Türkiye,U,UNHCR,FI,P,Persons,0,1112,0,192,213,1517
+2008,IRN,TUR,Iran (Islamic Republic of),Türkiye,U,UNHCR,RA,P,Persons,0,48,0,5,20,73
+2008,IRQ,TUR,Iraq,Türkiye,U,UNHCR,AR,P,Persons,0,26,0,53,5,84
+2008,IRQ,TUR,Iraq,Türkiye,U,UNHCR,FI,P,Persons,0,6573,0,465,21,7059
+2008,IRQ,TUR,Iraq,Türkiye,U,UNHCR,RA,P,Persons,0,32,0,0,5,37
+2008,LKA,TUR,Sri Lanka,Türkiye,U,UNHCR,AR,P,Persons,0,0,0,10,0,10
+2008,LKA,TUR,Sri Lanka,Türkiye,U,UNHCR,FI,P,Persons,0,5,0,41,10,56
+2008,MRT,TUR,Mauritania,Türkiye,U,UNHCR,AR,P,Persons,0,0,0,11,0,11
+2008,MRT,TUR,Mauritania,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,18,0,18
+2008,MAR,TUR,Morocco,Türkiye,U,UNHCR,AR,P,Persons,0,0,0,0,5,5
+2008,MAR,TUR,Morocco,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,5,0,5
+2008,NGA,TUR,Nigeria,Türkiye,U,UNHCR,AR,P,Persons,0,0,0,5,0,5
+2008,NGA,TUR,Nigeria,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,10,0,10
+2008,PAK,TUR,Pakistan,Türkiye,U,UNHCR,AR,P,Persons,0,0,0,0,10,10
+2008,PAK,TUR,Pakistan,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,11,0,11
+2008,SLE,TUR,Sierra Leone,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,0,5,5
+2008,SOM,TUR,Somalia,Türkiye,U,UNHCR,AR,P,Persons,0,57,0,157,11,225
+2008,SOM,TUR,Somalia,Türkiye,U,UNHCR,FI,P,Persons,0,323,0,573,30,926
+2008,STA,TUR,Stateless,Türkiye,U,UNHCR,FI,P,Persons,0,5,0,0,0,5
+2008,SDN,TUR,Sudan,Türkiye,U,UNHCR,AR,P,Persons,0,10,0,22,10,42
+2008,SDN,TUR,Sudan,Türkiye,U,UNHCR,FI,P,Persons,0,38,0,35,24,97
+2008,SYR,TUR,Syrian Arab Republic,Türkiye,U,UNHCR,AR,P,Persons,0,5,0,0,0,5
+2008,SYR,TUR,Syrian Arab Republic,Türkiye,U,UNHCR,FI,P,Persons,0,5,0,0,14,19
+2008,TKM,TUR,Turkmenistan,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,5,0,5
+2008,TUN,TUR,Tunisia,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,5,0,5
+2008,USA,TUR,United States of America,Türkiye,U,UNHCR,AR,P,Persons,0,0,0,0,5,5
+2008,UZB,TUR,Uzbekistan,Türkiye,U,UNHCR,AR,P,Persons,0,0,0,0,5,5
+2008,UZB,TUR,Uzbekistan,Türkiye,U,UNHCR,FI,P,Persons,0,10,0,11,0,21
+2009,AFG,TUR,Afghanistan,Türkiye,U,UNHCR,AR,P,Persons,0,21,0,170,5,196
+2009,AFG,TUR,Afghanistan,Türkiye,U,UNHCR,FI,P,Persons,0,771,0,948,644,2363
+2009,AFG,TUR,Afghanistan,Türkiye,U,UNHCR,RA,P,Persons,0,0,0,0,5,5
+2009,DZA,TUR,Algeria,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,5,0,5
+2009,EGY,TUR,Egypt,Türkiye,U,UNHCR,AR,P,Persons,0,0,0,5,0,5
+2009,EGY,TUR,Egypt,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,0,5,5
+2009,BGD,TUR,Bangladesh,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,5,0,5
+2009,BTN,TUR,Bhutan,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,5,0,5
+2009,CHN,TUR,China,Türkiye,U,UNHCR,AR,P,Persons,0,0,0,5,0,5
+2009,CHN,TUR,China,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,5,0,5
+2009,CHN,TUR,China,Türkiye,U,UNHCR,RA,P,Persons,0,0,0,5,0,5
+2009,CMR,TUR,Cameroon,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,28,0,28
+2009,COG,TUR,Congo,Türkiye,U,UNHCR,AR,P,Persons,0,0,0,5,0,5
+2009,COD,TUR,Democratic Republic of the Congo,Türkiye,U,UNHCR,AR,P,Persons,0,0,0,5,0,5
+2009,COD,TUR,Democratic Republic of the Congo,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,73,5,78
+2009,ERI,TUR,Eritrea,Türkiye,U,UNHCR,AR,P,Persons,0,5,0,0,0,5
+2009,ERI,TUR,Eritrea,Türkiye,U,UNHCR,FI,P,Persons,0,20,0,48,5,73
+2009,ETH,TUR,Ethiopia,Türkiye,U,UNHCR,AR,P,Persons,0,0,0,5,0,5
+2009,ETH,TUR,Ethiopia,Türkiye,U,UNHCR,FI,P,Persons,0,10,0,5,5,20
+2009,ETH,TUR,Ethiopia,Türkiye,U,UNHCR,RA,P,Persons,0,0,0,0,5,5
+2009,PSE,TUR,State of Palestine,Türkiye,U,UNHCR,AR,P,Persons,0,0,0,5,0,5
+2009,PSE,TUR,State of Palestine,Türkiye,U,UNHCR,FI,P,Persons,0,5,0,40,0,45
+2009,GIN,TUR,Guinea,Türkiye,U,UNHCR,AR,P,Persons,0,0,0,5,0,5
+2009,GIN,TUR,Guinea,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,10,11,21
+2009,CIV,TUR,Côte d'Ivoire,Türkiye,U,UNHCR,AR,P,Persons,0,0,0,0,5,5
+2009,CIV,TUR,Côte d'Ivoire,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,5,5,10
+2009,IRN,TUR,Iran (Islamic Republic of),Türkiye,U,UNHCR,AR,P,Persons,0,58,0,62,60,180
+2009,IRN,TUR,Iran (Islamic Republic of),Türkiye,U,UNHCR,FI,P,Persons,0,1345,0,311,263,1919
+2009,IRN,TUR,Iran (Islamic Republic of),Türkiye,U,UNHCR,RA,P,Persons,0,12,0,14,5,31
+2009,IRQ,TUR,Iraq,Türkiye,U,UNHCR,AR,P,Persons,0,5,0,25,5,35
+2009,IRQ,TUR,Iraq,Türkiye,U,UNHCR,FI,P,Persons,0,3432,0,471,36,3939
+2009,IRQ,TUR,Iraq,Türkiye,U,UNHCR,RA,P,Persons,0,16,0,14,5,35
+2009,KEN,TUR,Kenya,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,5,0,5
+2009,LBR,TUR,Liberia,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,5,0,5
+2009,LKA,TUR,Sri Lanka,Türkiye,U,UNHCR,AR,P,Persons,0,12,0,0,0,12
+2009,LKA,TUR,Sri Lanka,Türkiye,U,UNHCR,FI,P,Persons,0,13,0,30,5,48
+2009,MRT,TUR,Mauritania,Türkiye,U,UNHCR,AR,P,Persons,0,0,0,5,0,5
+2009,MRT,TUR,Mauritania,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,23,0,23
+2009,MAR,TUR,Morocco,Türkiye,U,UNHCR,FI,P,Persons,0,5,0,0,0,5
+2009,MMR,TUR,Myanmar,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,88,0,88
+2009,NGA,TUR,Nigeria,Türkiye,U,UNHCR,AR,P,Persons,0,0,0,5,0,5
+2009,NGA,TUR,Nigeria,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,12,5,17
+2009,PAK,TUR,Pakistan,Türkiye,U,UNHCR,FI,P,Persons,0,5,0,14,0,19
+2009,SLE,TUR,Sierra Leone,Türkiye,U,UNHCR,AR,P,Persons,0,0,0,5,0,5
+2009,SLE,TUR,Sierra Leone,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,5,0,5
+2009,SOM,TUR,Somalia,Türkiye,U,UNHCR,AR,P,Persons,0,12,0,10,17,39
+2009,SOM,TUR,Somalia,Türkiye,U,UNHCR,FI,P,Persons,0,237,0,214,17,468
+2009,STA,TUR,Stateless,Türkiye,U,UNHCR,FI,P,Persons,0,5,0,5,0,10
+2009,SDN,TUR,Sudan,Türkiye,U,UNHCR,AR,P,Persons,0,5,0,12,0,17
+2009,SDN,TUR,Sudan,Türkiye,U,UNHCR,FI,P,Persons,0,46,0,77,14,137
+2009,SYR,TUR,Syrian Arab Republic,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,14,0,14
+2009,SYR,TUR,Syrian Arab Republic,Türkiye,U,UNHCR,RA,P,Persons,0,0,0,0,5,5
+2009,TKM,TUR,Turkmenistan,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,5,0,5
+2009,UZB,TUR,Uzbekistan,Türkiye,U,UNHCR,FI,P,Persons,0,12,0,5,0,17
+2009,UZB,TUR,Uzbekistan,Türkiye,U,UNHCR,RA,P,Persons,0,14,0,0,0,14
+2010,AFG,TUR,Afghanistan,Türkiye,U,UNHCR,AR,P,Persons,0,116,0,289,65,470
+2010,AFG,TUR,Afghanistan,Türkiye,U,UNHCR,FI,P,Persons,0,528,0,438,374,1340
+2010,AFG,TUR,Afghanistan,Türkiye,U,UNHCR,RA,P,Persons,0,5,0,0,0,5
+2010,EGY,TUR,Egypt,Türkiye,U,UNHCR,AR,P,Persons,0,0,0,0,5,5
+2010,EGY,TUR,Egypt,Türkiye,U,UNHCR,FI,P,Persons,0,5,0,0,5,10
+2010,BGD,TUR,Bangladesh,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,18,0,18
+2010,TCD,TUR,Chad,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,5,0,5
+2010,CHN,TUR,China,Türkiye,U,UNHCR,AR,P,Persons,0,0,0,5,0,5
+2010,CHN,TUR,China,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,14,0,14
+2010,CMR,TUR,Cameroon,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,19,0,19
+2010,COD,TUR,Democratic Republic of the Congo,Türkiye,U,UNHCR,AR,P,Persons,0,0,0,5,0,5
+2010,COD,TUR,Democratic Republic of the Congo,Türkiye,U,UNHCR,FI,P,Persons,0,5,0,36,5,46
+2010,ERI,TUR,Eritrea,Türkiye,U,UNHCR,AR,P,Persons,0,0,0,5,5,10
+2010,ERI,TUR,Eritrea,Türkiye,U,UNHCR,FI,P,Persons,0,24,0,28,5,57
+2010,ETH,TUR,Ethiopia,Türkiye,U,UNHCR,AR,P,Persons,0,5,0,5,0,10
+2010,ETH,TUR,Ethiopia,Türkiye,U,UNHCR,FI,P,Persons,0,10,0,16,12,38
+2010,GAB,TUR,Gabon,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,5,0,5
+2010,PSE,TUR,State of Palestine,Türkiye,U,UNHCR,AR,P,Persons,0,0,0,5,0,5
+2010,PSE,TUR,State of Palestine,Türkiye,U,UNHCR,FI,P,Persons,0,34,0,31,10,75
+2010,GIN,TUR,Guinea,Türkiye,U,UNHCR,AR,P,Persons,0,0,0,14,0,14
+2010,GIN,TUR,Guinea,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,11,13,24
+2010,CIV,TUR,Côte d'Ivoire,Türkiye,U,UNHCR,AR,P,Persons,0,0,0,5,0,5
+2010,CIV,TUR,Côte d'Ivoire,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,12,0,12
+2010,IND,TUR,India,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,5,0,5
+2010,IDN,TUR,Indonesia,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,5,0,5
+2010,IRN,TUR,Iran (Islamic Republic of),Türkiye,U,UNHCR,AR,P,Persons,0,87,0,372,159,618
+2010,IRN,TUR,Iran (Islamic Republic of),Türkiye,U,UNHCR,FI,P,Persons,0,1880,0,340,979,3199
+2010,IRN,TUR,Iran (Islamic Republic of),Türkiye,U,UNHCR,RA,P,Persons,0,35,0,0,5,40
+2010,IRQ,TUR,Iraq,Türkiye,U,UNHCR,AR,P,Persons,0,5,0,107,11,123
+2010,IRQ,TUR,Iraq,Türkiye,U,UNHCR,FI,P,Persons,0,3323,0,248,175,3746
+2010,IRQ,TUR,Iraq,Türkiye,U,UNHCR,RA,P,Persons,0,5,0,0,0,5
+2010,JOR,TUR,Jordan,Türkiye,U,UNHCR,FI,P,Persons,0,5,0,5,0,10
+2010,KGZ,TUR,Kyrgyzstan,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,10,0,10
+2010,LKA,TUR,Sri Lanka,Türkiye,U,UNHCR,AR,P,Persons,0,0,0,5,0,5
+2010,LKA,TUR,Sri Lanka,Türkiye,U,UNHCR,FI,P,Persons,0,10,0,13,5,28
+2010,MRT,TUR,Mauritania,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,16,0,16
+2010,MAR,TUR,Morocco,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,0,5,5
+2010,MMR,TUR,Myanmar,Türkiye,U,UNHCR,AR,P,Persons,0,0,0,5,0,5
+2010,MMR,TUR,Myanmar,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,58,5,63
+2010,NGA,TUR,Nigeria,Türkiye,U,UNHCR,AR,P,Persons,0,0,0,5,0,5
+2010,NGA,TUR,Nigeria,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,13,0,13
+2010,PAK,TUR,Pakistan,Türkiye,U,UNHCR,AR,P,Persons,0,0,0,5,0,5
+2010,PAK,TUR,Pakistan,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,19,5,24
+2010,RUS,TUR,Russian Federation,Türkiye,U,UNHCR,FI,P,Persons,0,5,0,0,0,5
+2010,SAU,TUR,Saudi Arabia,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,5,0,5
+2010,SEN,TUR,Senegal,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,5,0,5
+2010,SLE,TUR,Sierra Leone,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,5,5,10
+2010,SOM,TUR,Somalia,Türkiye,U,UNHCR,AR,P,Persons,0,15,0,17,0,32
+2010,SOM,TUR,Somalia,Türkiye,U,UNHCR,FI,P,Persons,0,282,0,93,32,407
+2010,STA,TUR,Stateless,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,5,0,5
+2010,STA,TUR,Stateless,Türkiye,U,UNHCR,RA,P,Persons,0,5,0,0,0,5
+2010,SDN,TUR,Sudan,Türkiye,U,UNHCR,AR,P,Persons,0,22,0,0,10,32
+2010,SDN,TUR,Sudan,Türkiye,U,UNHCR,FI,P,Persons,0,43,0,24,20,87
+2010,SYR,TUR,Syrian Arab Republic,Türkiye,U,UNHCR,AR,P,Persons,0,0,0,11,0,11
+2010,SYR,TUR,Syrian Arab Republic,Türkiye,U,UNHCR,FI,P,Persons,0,5,0,5,27,37
+2010,TJK,TUR,Tajikistan,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,14,0,14
+2010,TKM,TUR,Turkmenistan,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,5,0,5
+2010,UZB,TUR,Uzbekistan,Türkiye,U,UNHCR,FI,P,Persons,0,11,0,11,0,22
+2010,UZB,TUR,Uzbekistan,Türkiye,U,UNHCR,RA,P,Persons,0,5,0,0,0,5
+2011,AFG,TUR,Afghanistan,Türkiye,U,UNHCR,AR,P,Persons,0,447,0,532,123,1102
+2011,AFG,TUR,Afghanistan,Türkiye,U,UNHCR,FI,P,Persons,0,870,0,595,76,1541
+2011,AFG,TUR,Afghanistan,Türkiye,U,UNHCR,RA,P,Persons,0,15,0,0,0,15
+2011,DZA,TUR,Algeria,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,5,0,5
+2011,EGY,TUR,Egypt,Türkiye,U,UNHCR,AR,P,Persons,0,0,0,5,0,5
+2011,EGY,TUR,Egypt,Türkiye,U,UNHCR,FI,P,Persons,0,5,0,0,0,5
+2011,EGY,TUR,Egypt,Türkiye,U,UNHCR,RA,P,Persons,0,5,0,0,0,5
+2011,BGD,TUR,Bangladesh,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,14,0,14
+2011,TCD,TUR,Chad,Türkiye,U,UNHCR,AR,P,Persons,0,0,0,5,0,5
+2011,CHN,TUR,China,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,15,5,20
+2011,CMR,TUR,Cameroon,Türkiye,U,UNHCR,FI,P,Persons,0,5,0,38,0,43
+2011,COG,TUR,Congo,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,5,0,5
+2011,COD,TUR,Democratic Republic of the Congo,Türkiye,U,UNHCR,AR,P,Persons,0,12,0,5,0,17
+2011,COD,TUR,Democratic Republic of the Congo,Türkiye,U,UNHCR,FI,P,Persons,0,23,0,60,0,83
+2011,ERI,TUR,Eritrea,Türkiye,U,UNHCR,AR,P,Persons,0,5,0,5,0,10
+2011,ERI,TUR,Eritrea,Türkiye,U,UNHCR,FI,P,Persons,0,14,0,20,10,44
+2011,ETH,TUR,Ethiopia,Türkiye,U,UNHCR,AR,P,Persons,0,5,0,14,5,24
+2011,ETH,TUR,Ethiopia,Türkiye,U,UNHCR,FI,P,Persons,0,26,0,5,5,36
+2011,PSE,TUR,State of Palestine,Türkiye,U,UNHCR,AR,P,Persons,0,0,0,10,0,10
+2011,PSE,TUR,State of Palestine,Türkiye,U,UNHCR,FI,P,Persons,0,36,0,53,5,94
+2011,GIN,TUR,Guinea,Türkiye,U,UNHCR,AR,P,Persons,0,0,0,12,0,12
+2011,GIN,TUR,Guinea,Türkiye,U,UNHCR,FI,P,Persons,0,5,0,26,0,31
+2011,CIV,TUR,Côte d'Ivoire,Türkiye,U,UNHCR,FI,P,Persons,0,5,0,22,0,27
+2011,IND,TUR,India,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,5,0,5
+2011,IRN,TUR,Iran (Islamic Republic of),Türkiye,U,UNHCR,AR,P,Persons,0,595,0,770,174,1539
+2011,IRN,TUR,Iran (Islamic Republic of),Türkiye,U,UNHCR,FI,P,Persons,0,2268,0,397,127,2792
+2011,IRN,TUR,Iran (Islamic Republic of),Türkiye,U,UNHCR,RA,P,Persons,0,70,0,0,10,80
+2011,IRQ,TUR,Iraq,Türkiye,U,UNHCR,AR,P,Persons,0,40,0,86,30,156
+2011,IRQ,TUR,Iraq,Türkiye,U,UNHCR,FI,P,Persons,0,4484,0,261,25,4770
+2011,IRQ,TUR,Iraq,Türkiye,U,UNHCR,RA,P,Persons,0,0,0,10,0,10
+2011,JOR,TUR,Jordan,Türkiye,U,UNHCR,AR,P,Persons,0,0,0,0,5,5
+2011,JOR,TUR,Jordan,Türkiye,U,UNHCR,FI,P,Persons,0,5,0,0,0,5
+2011,KAZ,TUR,Kazakhstan,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,5,0,5
+2011,KGZ,TUR,Kyrgyzstan,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,109,0,109
+2011,LBR,TUR,Liberia,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,5,0,5
+2011,LBY,TUR,Libya,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,5,0,5
+2011,LBN,TUR,Lebanon,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,5,0,5
+2011,LKA,TUR,Sri Lanka,Türkiye,U,UNHCR,AR,P,Persons,0,0,0,5,0,5
+2011,LKA,TUR,Sri Lanka,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,5,0,5
+2011,MRT,TUR,Mauritania,Türkiye,U,UNHCR,FI,P,Persons,0,5,0,0,0,5
+2011,MAR,TUR,Morocco,Türkiye,U,UNHCR,AR,P,Persons,0,0,0,0,5,5
+2011,MAR,TUR,Morocco,Türkiye,U,UNHCR,FI,P,Persons,0,5,0,17,0,22
+2011,MAR,TUR,Morocco,Türkiye,U,UNHCR,RA,P,Persons,0,0,0,10,0,10
+2011,MMR,TUR,Myanmar,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,12,0,12
+2011,NPL,TUR,Nepal,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,10,0,10
+2011,NGA,TUR,Nigeria,Türkiye,U,UNHCR,AR,P,Persons,0,0,0,5,5,10
+2011,NGA,TUR,Nigeria,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,13,0,13
+2011,PAK,TUR,Pakistan,Türkiye,U,UNHCR,FI,P,Persons,0,14,0,32,10,56
+2011,PHL,TUR,Philippines,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,5,0,5
+2011,RWA,TUR,Rwanda,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,12,0,12
+2011,SEN,TUR,Senegal,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,5,0,5
+2011,SLE,TUR,Sierra Leone,Türkiye,U,UNHCR,AR,P,Persons,0,0,0,10,0,10
+2011,SLE,TUR,Sierra Leone,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,5,5,10
+2011,SOM,TUR,Somalia,Türkiye,U,UNHCR,AR,P,Persons,0,21,0,24,0,45
+2011,SOM,TUR,Somalia,Türkiye,U,UNHCR,FI,P,Persons,0,255,0,148,17,420
+2011,SOM,TUR,Somalia,Türkiye,U,UNHCR,RA,P,Persons,0,5,0,0,0,5
+2011,STA,TUR,Stateless,Türkiye,U,UNHCR,FI,P,Persons,0,14,0,0,0,14
+2011,SDN,TUR,Sudan,Türkiye,U,UNHCR,AR,P,Persons,0,5,0,13,5,23
+2011,SDN,TUR,Sudan,Türkiye,U,UNHCR,FI,P,Persons,0,32,0,18,10,60
+2011,SYR,TUR,Syrian Arab Republic,Türkiye,U,UNHCR,AR,P,Persons,0,0,0,13,0,13
+2011,SYR,TUR,Syrian Arab Republic,Türkiye,U,UNHCR,FI,P,Persons,0,13,0,30,5,48
+2011,SYR,TUR,Syrian Arab Republic,Türkiye,U,UNHCR,RA,P,Persons,0,0,0,5,0,5
+2011,TZA,TUR,United Republic of Tanzania,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,5,0,5
+2011,TJK,TUR,Tajikistan,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,20,0,20
+2011,TKM,TUR,Turkmenistan,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,5,0,5
+2011,TUN,TUR,Tunisia,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,12,0,12
+2011,UGA,TUR,Uganda,Türkiye,U,UNHCR,FI,P,Persons,0,5,0,0,0,5
+2011,UZB,TUR,Uzbekistan,Türkiye,U,UNHCR,AR,P,Persons,0,0,0,5,0,5
+2011,UZB,TUR,Uzbekistan,Türkiye,U,UNHCR,FI,P,Persons,0,5,0,46,0,51
+2011,YEM,TUR,Yemen,Türkiye,U,UNHCR,FI,P,Persons,0,5,0,5,0,10
+2012,AFG,TUR,Afghanistan,Türkiye,U,UNHCR,AR,P,Persons,0,29,0,247,34,310
+2012,AFG,TUR,Afghanistan,Türkiye,U,UNHCR,FI,P,Persons,0,1144,0,548,185,1877
+2012,DZA,TUR,Algeria,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,10,0,10
+2012,EGY,TUR,Egypt,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,5,0,5
+2012,AZE,TUR,Azerbaijan,Türkiye,U,UNHCR,FI,P,Persons,0,5,0,0,0,5
+2012,BGD,TUR,Bangladesh,Türkiye,U,UNHCR,AR,P,Persons,0,0,0,5,0,5
+2012,BGD,TUR,Bangladesh,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,5,0,5
+2012,CHN,TUR,China,Türkiye,U,UNHCR,AR,P,Persons,0,0,0,5,0,5
+2012,CHN,TUR,China,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,14,0,14
+2012,CMR,TUR,Cameroon,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,18,0,18
+2012,COD,TUR,Democratic Republic of the Congo,Türkiye,U,UNHCR,AR,P,Persons,0,0,0,10,0,10
+2012,COD,TUR,Democratic Republic of the Congo,Türkiye,U,UNHCR,FI,P,Persons,0,13,0,29,5,47
+2012,ERI,TUR,Eritrea,Türkiye,U,UNHCR,AR,P,Persons,0,0,0,11,0,11
+2012,ERI,TUR,Eritrea,Türkiye,U,UNHCR,FI,P,Persons,0,5,0,5,0,10
+2012,ETH,TUR,Ethiopia,Türkiye,U,UNHCR,AR,P,Persons,0,0,0,5,0,5
+2012,ETH,TUR,Ethiopia,Türkiye,U,UNHCR,FI,P,Persons,0,24,0,5,0,29
+2012,ETH,TUR,Ethiopia,Türkiye,U,UNHCR,RA,P,Persons,0,0,0,5,0,5
+2012,PSE,TUR,State of Palestine,Türkiye,U,UNHCR,AR,P,Persons,0,0,0,19,0,19
+2012,PSE,TUR,State of Palestine,Türkiye,U,UNHCR,FI,P,Persons,0,65,0,26,0,91
+2012,GHA,TUR,Ghana,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,5,0,5
+2012,GIN,TUR,Guinea,Türkiye,U,UNHCR,AR,P,Persons,0,0,0,5,0,5
+2012,CIV,TUR,Côte d'Ivoire,Türkiye,U,UNHCR,FI,P,Persons,0,5,0,19,0,24
+2012,IND,TUR,India,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,5,0,5
+2012,IRN,TUR,Iran (Islamic Republic of),Türkiye,U,UNHCR,AR,P,Persons,0,74,0,188,23,285
+2012,IRN,TUR,Iran (Islamic Republic of),Türkiye,U,UNHCR,FI,P,Persons,0,1942,0,369,179,2490
+2012,IRN,TUR,Iran (Islamic Republic of),Türkiye,U,UNHCR,RA,P,Persons,0,11,0,5,0,16
+2012,IRQ,TUR,Iraq,Türkiye,U,UNHCR,AR,P,Persons,0,16,0,53,21,90
+2012,IRQ,TUR,Iraq,Türkiye,U,UNHCR,FI,P,Persons,0,6381,0,721,44,7146
+2012,IRQ,TUR,Iraq,Türkiye,U,UNHCR,RA,P,Persons,0,0,0,5,0,5
+2012,JOR,TUR,Jordan,Türkiye,U,UNHCR,FI,P,Persons,0,5,0,0,0,5
+2012,KAZ,TUR,Kazakhstan,Türkiye,U,UNHCR,AR,P,Persons,0,0,0,0,5,5
+2012,KAZ,TUR,Kazakhstan,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,0,5,5
+2012,KAZ,TUR,Kazakhstan,Türkiye,U,UNHCR,RA,P,Persons,0,0,0,5,0,5
+2012,KEN,TUR,Kenya,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,5,5,10
+2012,KGZ,TUR,Kyrgyzstan,Türkiye,U,UNHCR,FI,P,Persons,0,172,0,33,5,210
+2012,KWT,TUR,Kuwait,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,5,0,5
+2012,LBR,TUR,Liberia,Türkiye,U,UNHCR,AR,P,Persons,0,0,0,5,0,5
+2012,LBY,TUR,Libya,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,11,0,11
+2012,LBN,TUR,Lebanon,Türkiye,U,UNHCR,FI,P,Persons,0,5,0,0,0,5
+2012,LKA,TUR,Sri Lanka,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,5,0,5
+2012,MAR,TUR,Morocco,Türkiye,U,UNHCR,AR,P,Persons,0,0,0,11,0,11
+2012,MAR,TUR,Morocco,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,5,11,16
+2012,MMR,TUR,Myanmar,Türkiye,U,UNHCR,AR,P,Persons,0,0,0,5,0,5
+2012,MMR,TUR,Myanmar,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,5,0,5
+2012,NGA,TUR,Nigeria,Türkiye,U,UNHCR,AR,P,Persons,0,0,0,5,0,5
+2012,NGA,TUR,Nigeria,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,11,0,11
+2012,PAK,TUR,Pakistan,Türkiye,U,UNHCR,AR,P,Persons,0,0,0,12,5,17
+2012,PAK,TUR,Pakistan,Türkiye,U,UNHCR,FI,P,Persons,0,5,0,5,0,10
+2012,RWA,TUR,Rwanda,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,10,0,10
+2012,SAU,TUR,Saudi Arabia,Türkiye,U,UNHCR,FI,P,Persons,0,5,0,0,0,5
+2012,SEN,TUR,Senegal,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,20,0,20
+2012,SLE,TUR,Sierra Leone,Türkiye,U,UNHCR,FI,P,Persons,0,5,0,5,0,10
+2012,SOM,TUR,Somalia,Türkiye,U,UNHCR,AR,P,Persons,0,32,0,5,0,37
+2012,SOM,TUR,Somalia,Türkiye,U,UNHCR,FI,P,Persons,0,840,0,160,31,1031
+2012,SOM,TUR,Somalia,Türkiye,U,UNHCR,RA,P,Persons,0,11,0,0,0,11
+2012,STA,TUR,Stateless,Türkiye,U,UNHCR,FI,P,Persons,0,5,0,0,0,5
+2012,STA,TUR,Stateless,Türkiye,U,UNHCR,RA,P,Persons,0,0,0,11,0,11
+2012,SDN,TUR,Sudan,Türkiye,U,UNHCR,AR,P,Persons,0,16,0,15,10,41
+2012,SDN,TUR,Sudan,Türkiye,U,UNHCR,FI,P,Persons,0,25,0,10,0,35
+2012,SYR,TUR,Syrian Arab Republic,Türkiye,U,UNHCR,AR,P,Persons,0,0,0,15,0,15
+2012,SYR,TUR,Syrian Arab Republic,Türkiye,U,UNHCR,FI,P,Persons,0,10,0,20,0,30
+2012,TJK,TUR,Tajikistan,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,19,0,19
+2012,TKM,TUR,Turkmenistan,Türkiye,U,UNHCR,FI,P,Persons,0,5,0,11,5,21
+2012,TUN,TUR,Tunisia,Türkiye,U,UNHCR,AR,P,Persons,0,0,0,5,0,5
+2012,TUN,TUR,Tunisia,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,0,5,5
+2012,UGA,TUR,Uganda,Türkiye,U,UNHCR,FI,P,Persons,0,5,0,29,0,34
+2012,UZB,TUR,Uzbekistan,Türkiye,U,UNHCR,AR,P,Persons,0,0,0,47,20,67
+2012,UZB,TUR,Uzbekistan,Türkiye,U,UNHCR,FI,P,Persons,0,14,0,84,10,108
+2012,YEM,TUR,Yemen,Türkiye,U,UNHCR,FI,P,Persons,0,13,0,0,0,13
+2012,YEM,TUR,Yemen,Türkiye,U,UNHCR,RA,P,Persons,0,0,0,5,0,5
+2013,AFG,TUR,Afghanistan,Türkiye,U,UNHCR,AR,P,Persons,0,24,0,68,29,121
+2013,AFG,TUR,Afghanistan,Türkiye,U,UNHCR,FI,P,Persons,0,797,0,204,259,1260
+2013,AFG,TUR,Afghanistan,Türkiye,U,UNHCR,RA,P,Persons,0,5,0,0,0,5
+2013,AGO,TUR,Angola,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,5,0,5
+2013,EGY,TUR,Egypt,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,14,0,14
+2013,BGD,TUR,Bangladesh,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,0,5,5
+2013,BGD,TUR,Bangladesh,Türkiye,U,UNHCR,RA,P,Persons,0,0,0,5,0,5
+2013,CHN,TUR,China,Türkiye,U,UNHCR,FI,P,Persons,0,11,0,21,0,32
+2013,CMR,TUR,Cameroon,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,16,5,21
+2013,COG,TUR,Congo,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,5,0,5
+2013,COD,TUR,Democratic Republic of the Congo,Türkiye,U,UNHCR,AR,P,Persons,0,0,0,5,0,5
+2013,COD,TUR,Democratic Republic of the Congo,Türkiye,U,UNHCR,FI,P,Persons,0,14,0,29,0,43
+2013,ERI,TUR,Eritrea,Türkiye,U,UNHCR,AR,P,Persons,0,5,0,0,0,5
+2013,ERI,TUR,Eritrea,Türkiye,U,UNHCR,FI,P,Persons,0,5,0,11,5,21
+2013,ETH,TUR,Ethiopia,Türkiye,U,UNHCR,AR,P,Persons,0,5,0,0,0,5
+2013,ETH,TUR,Ethiopia,Türkiye,U,UNHCR,FI,P,Persons,0,26,0,10,0,36
+2013,PSE,TUR,State of Palestine,Türkiye,U,UNHCR,AR,P,Persons,0,0,0,11,0,11
+2013,PSE,TUR,State of Palestine,Türkiye,U,UNHCR,FI,P,Persons,0,458,0,40,0,498
+2013,GHA,TUR,Ghana,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,5,0,5
+2013,GIN,TUR,Guinea,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,5,0,5
+2013,CIV,TUR,Côte d'Ivoire,Türkiye,U,UNHCR,FI,P,Persons,0,5,0,18,0,23
+2013,IRN,TUR,Iran (Islamic Republic of),Türkiye,U,UNHCR,AR,P,Persons,0,52,0,138,98,288
+2013,IRN,TUR,Iran (Islamic Republic of),Türkiye,U,UNHCR,FI,P,Persons,0,2635,0,461,790,3886
+2013,IRN,TUR,Iran (Islamic Republic of),Türkiye,U,UNHCR,RA,P,Persons,0,42,0,0,11,53
+2013,IRQ,TUR,Iraq,Türkiye,U,UNHCR,AR,P,Persons,0,0,0,40,5,45
+2013,IRQ,TUR,Iraq,Türkiye,U,UNHCR,FI,P,Persons,0,9069,0,541,100,9710
+2013,IRQ,TUR,Iraq,Türkiye,U,UNHCR,RA,P,Persons,0,0,0,12,5,17
+2013,ISR,TUR,Israel,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,5,0,5
+2013,JOR,TUR,Jordan,Türkiye,U,UNHCR,FI,P,Persons,0,14,0,0,0,14
+2013,KAZ,TUR,Kazakhstan,Türkiye,U,UNHCR,AR,P,Persons,0,0,0,10,0,10
+2013,KAZ,TUR,Kazakhstan,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,11,0,11
+2013,KEN,TUR,Kenya,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,5,0,5
+2013,KGZ,TUR,Kyrgyzstan,Türkiye,U,UNHCR,AR,P,Persons,0,0,0,22,0,22
+2013,KGZ,TUR,Kyrgyzstan,Türkiye,U,UNHCR,FI,P,Persons,0,51,0,31,34,116
+2013,LBR,TUR,Liberia,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,5,0,5
+2013,LBY,TUR,Libya,Türkiye,U,UNHCR,AR,P,Persons,0,0,0,5,0,5
+2013,LBY,TUR,Libya,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,0,5,5
+2013,LBN,TUR,Lebanon,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,5,0,5
+2013,MRT,TUR,Mauritania,Türkiye,U,UNHCR,FI,P,Persons,0,5,0,0,0,5
+2013,MAR,TUR,Morocco,Türkiye,U,UNHCR,AR,P,Persons,0,0,0,5,0,5
+2013,MAR,TUR,Morocco,Türkiye,U,UNHCR,FI,P,Persons,0,5,0,0,5,10
+2013,MAR,TUR,Morocco,Türkiye,U,UNHCR,RA,P,Persons,0,0,0,5,0,5
+2013,MMR,TUR,Myanmar,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,5,0,5
+2013,NGA,TUR,Nigeria,Türkiye,U,UNHCR,AR,P,Persons,0,0,0,5,0,5
+2013,NGA,TUR,Nigeria,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,12,10,22
+2013,PAK,TUR,Pakistan,Türkiye,U,UNHCR,AR,P,Persons,0,0,0,5,5,10
+2013,PAK,TUR,Pakistan,Türkiye,U,UNHCR,FI,P,Persons,0,5,0,13,5,23
+2013,PAK,TUR,Pakistan,Türkiye,U,UNHCR,RA,P,Persons,0,5,0,0,0,5
+2013,RUS,TUR,Russian Federation,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,5,0,5
+2013,SAU,TUR,Saudi Arabia,Türkiye,U,UNHCR,FI,P,Persons,0,5,0,0,0,5
+2013,SEN,TUR,Senegal,Türkiye,U,UNHCR,AR,P,Persons,0,0,0,5,0,5
+2013,SEN,TUR,Senegal,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,21,12,33
+2013,SLE,TUR,Sierra Leone,Türkiye,U,UNHCR,AR,P,Persons,0,0,0,5,0,5
+2013,SLE,TUR,Sierra Leone,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,5,0,5
+2013,SOM,TUR,Somalia,Türkiye,U,UNHCR,AR,P,Persons,0,10,0,12,0,22
+2013,SOM,TUR,Somalia,Türkiye,U,UNHCR,FI,P,Persons,0,726,0,53,11,790
+2013,SOM,TUR,Somalia,Türkiye,U,UNHCR,RA,P,Persons,0,0,0,18,0,18
+2013,STA,TUR,Stateless,Türkiye,U,UNHCR,FI,P,Persons,0,5,0,12,0,17
+2013,SDN,TUR,Sudan,Türkiye,U,UNHCR,FI,P,Persons,0,32,0,5,5,42
+2013,SYR,TUR,Syrian Arab Republic,Türkiye,U,UNHCR,AR,P,Persons,0,0,0,5,0,5
+2013,SYR,TUR,Syrian Arab Republic,Türkiye,U,UNHCR,FI,P,Persons,0,100,0,92,0,192
+2013,SYR,TUR,Syrian Arab Republic,Türkiye,U,UNHCR,RA,P,Persons,0,16,0,0,0,16
+2013,TJK,TUR,Tajikistan,Türkiye,U,UNHCR,AR,P,Persons,0,0,0,13,0,13
+2013,TJK,TUR,Tajikistan,Türkiye,U,UNHCR,FI,P,Persons,0,12,0,15,19,46
+2013,TKM,TUR,Turkmenistan,Türkiye,U,UNHCR,AR,P,Persons,0,0,0,19,0,19
+2013,TKM,TUR,Turkmenistan,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,25,20,45
+2013,TUN,TUR,Tunisia,Türkiye,U,UNHCR,FI,P,Persons,0,5,0,0,0,5
+2013,UGA,TUR,Uganda,Türkiye,U,UNHCR,AR,P,Persons,0,0,0,5,0,5
+2013,UGA,TUR,Uganda,Türkiye,U,UNHCR,FI,P,Persons,0,5,0,10,5,20
+2013,UZB,TUR,Uzbekistan,Türkiye,U,UNHCR,AR,P,Persons,0,0,0,32,0,32
+2013,UZB,TUR,Uzbekistan,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,41,45,86
+2013,UZB,TUR,Uzbekistan,Türkiye,U,UNHCR,RA,P,Persons,0,0,0,14,0,14
+2013,YEM,TUR,Yemen,Türkiye,U,UNHCR,AR,P,Persons,0,0,0,10,0,10
+2013,YEM,TUR,Yemen,Türkiye,U,UNHCR,FI,P,Persons,0,17,0,10,22,49
+2014,AFG,TUR,Afghanistan,Türkiye,U,UNHCR,AR,P,Persons,0,5,0,93,5,103
+2014,AFG,TUR,Afghanistan,Türkiye,U,UNHCR,FI,P,Persons,0,546,0,4345,0,4891
+2014,DZA,TUR,Algeria,Türkiye,U,UNHCR,AR,P,Persons,0,0,0,0,5,5
+2014,DZA,TUR,Algeria,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,11,0,11
+2014,AGO,TUR,Angola,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,5,0,5
+2014,EGY,TUR,Egypt,Türkiye,U,UNHCR,FI,P,Persons,0,5,0,52,5,62
+2014,AZE,TUR,Azerbaijan,Türkiye,U,UNHCR,FI,P,Persons,0,5,0,0,0,5
+2014,BDI,TUR,Burundi,Türkiye,U,UNHCR,FI,P,Persons,0,5,0,0,0,5
+2014,BGD,TUR,Bangladesh,Türkiye,U,UNHCR,AR,P,Persons,0,0,0,5,0,5
+2014,BGD,TUR,Bangladesh,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,64,0,64
+2014,CAF,TUR,Central African Republic,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,13,0,13
+2014,CHN,TUR,China,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,10,0,10
+2014,CMR,TUR,Cameroon,Türkiye,U,UNHCR,FI,P,Persons,0,5,0,108,5,118
+2014,COG,TUR,Congo,Türkiye,U,UNHCR,FI,P,Persons,0,10,0,19,5,34
+2014,COD,TUR,Democratic Republic of the Congo,Türkiye,U,UNHCR,AR,P,Persons,0,0,0,0,5,5
+2014,COD,TUR,Democratic Republic of the Congo,Türkiye,U,UNHCR,FI,P,Persons,0,20,0,77,12,109
+2014,ERI,TUR,Eritrea,Türkiye,U,UNHCR,AR,P,Persons,0,0,0,5,0,5
+2014,ERI,TUR,Eritrea,Türkiye,U,UNHCR,FI,P,Persons,0,19,0,35,0,54
+2014,ETH,TUR,Ethiopia,Türkiye,U,UNHCR,FI,P,Persons,0,14,0,49,0,63
+2014,GAB,TUR,Gabon,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,5,0,5
+2014,GMB,TUR,Gambia,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,0,5,5
+2014,PSE,TUR,State of Palestine,Türkiye,U,UNHCR,FI,P,Persons,0,322,0,64,0,386
+2014,GHA,TUR,Ghana,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,28,0,28
+2014,GIN,TUR,Guinea,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,12,0,12
+2014,CIV,TUR,Côte d'Ivoire,Türkiye,U,UNHCR,FI,P,Persons,0,10,0,38,5,53
+2014,IND,TUR,India,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,5,0,5
+2014,IRN,TUR,Iran (Islamic Republic of),Türkiye,U,UNHCR,AR,P,Persons,0,111,0,145,92,348
+2014,IRN,TUR,Iran (Islamic Republic of),Türkiye,U,UNHCR,FI,P,Persons,0,2361,0,441,658,3460
+2014,IRN,TUR,Iran (Islamic Republic of),Türkiye,U,UNHCR,RA,P,Persons,0,11,0,0,10,21
+2014,IRQ,TUR,Iraq,Türkiye,U,UNHCR,AR,P,Persons,0,30,0,0,10,40
+2014,IRQ,TUR,Iraq,Türkiye,U,UNHCR,FI,P,Persons,0,10174,0,4836,30,15040
+2014,JOR,TUR,Jordan,Türkiye,U,UNHCR,FI,P,Persons,0,14,0,0,0,14
+2014,KAZ,TUR,Kazakhstan,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,13,0,13
+2014,KEN,TUR,Kenya,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,0,5,5
+2014,KGZ,TUR,Kyrgyzstan,Türkiye,U,UNHCR,AR,P,Persons,0,0,0,5,5,10
+2014,KGZ,TUR,Kyrgyzstan,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,14,0,14
+2014,LBY,TUR,Libya,Türkiye,U,UNHCR,FI,P,Persons,0,12,0,5,0,17
+2014,LBN,TUR,Lebanon,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,14,0,14
+2014,MLI,TUR,Mali,Türkiye,U,UNHCR,FI,P,Persons,0,5,0,67,0,72
+2014,MNG,TUR,Mongolia,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,23,0,23
+2014,MAR,TUR,Morocco,Türkiye,U,UNHCR,FI,P,Persons,0,13,0,10,0,23
+2014,MAR,TUR,Morocco,Türkiye,U,UNHCR,RA,P,Persons,0,0,0,5,0,5
+2014,MMR,TUR,Myanmar,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,10,0,10
+2014,NER,TUR,Niger,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,10,0,10
+2014,NGA,TUR,Nigeria,Türkiye,U,UNHCR,AR,P,Persons,0,0,0,5,0,5
+2014,NGA,TUR,Nigeria,Türkiye,U,UNHCR,FI,P,Persons,0,5,0,45,10,60
+2014,PAK,TUR,Pakistan,Türkiye,U,UNHCR,FI,P,Persons,0,5,0,306,0,311
+2014,SEN,TUR,Senegal,Türkiye,U,UNHCR,AR,P,Persons,0,0,0,0,5,5
+2014,SEN,TUR,Senegal,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,22,0,22
+2014,SLE,TUR,Sierra Leone,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,0,5,5
+2014,SOM,TUR,Somalia,Türkiye,U,UNHCR,AR,P,Persons,0,0,0,0,5,5
+2014,SOM,TUR,Somalia,Türkiye,U,UNHCR,FI,P,Persons,0,371,0,131,5,507
+2014,STA,TUR,Stateless,Türkiye,U,UNHCR,FI,P,Persons,0,50,0,0,0,50
+2014,SDN,TUR,Sudan,Türkiye,U,UNHCR,AR,P,Persons,0,5,0,0,0,5
+2014,SDN,TUR,Sudan,Türkiye,U,UNHCR,FI,P,Persons,0,43,0,45,10,98
+2014,SYR,TUR,Syrian Arab Republic,Türkiye,U,UNHCR,FI,P,Persons,0,8230,0,0,0,8230
+2014,TJK,TUR,Tajikistan,Türkiye,U,UNHCR,AR,P,Persons,0,0,0,0,5,5
+2014,TJK,TUR,Tajikistan,Türkiye,U,UNHCR,FI,P,Persons,0,5,0,32,0,37
+2014,TKM,TUR,Turkmenistan,Türkiye,U,UNHCR,AR,P,Persons,0,0,0,0,5,5
+2014,TKM,TUR,Turkmenistan,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,38,10,48
+2014,TGO,TUR,Togo,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,5,0,5
+2014,TUN,TUR,Tunisia,Türkiye,U,UNHCR,FI,P,Persons,0,5,0,5,0,10
+2014,UGA,TUR,Uganda,Türkiye,U,UNHCR,FI,P,Persons,0,16,0,135,14,165
+2014,UZB,TUR,Uzbekistan,Türkiye,U,UNHCR,AR,P,Persons,0,0,0,0,5,5
+2014,UZB,TUR,Uzbekistan,Türkiye,U,UNHCR,FI,P,Persons,0,10,0,74,10,94
+2014,YEM,TUR,Yemen,Türkiye,U,UNHCR,FI,P,Persons,0,10,0,84,14,108
+2015,AFG,TUR,Afghanistan,Türkiye,U,UNHCR,AR,P,Persons,0,141,0,38,28,207
+2015,AFG,TUR,Afghanistan,Türkiye,U,UNHCR,FI,P,Persons,0,318,0,5890,0,6208
+2015,AFG,TUR,Afghanistan,Türkiye,U,UNHCR,RA,P,Persons,0,15,0,17,0,32
+2015,DZA,TUR,Algeria,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,10,5,15
+2015,AGO,TUR,Angola,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,5,0,5
+2015,EGY,TUR,Egypt,Türkiye,U,UNHCR,AR,P,Persons,0,0,0,0,5,5
+2015,EGY,TUR,Egypt,Türkiye,U,UNHCR,FI,P,Persons,0,11,0,5,5,21
+2015,BGD,TUR,Bangladesh,Türkiye,U,UNHCR,AR,P,Persons,0,0,0,0,5,5
+2015,CAF,TUR,Central African Republic,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,5,0,5
+2015,CHN,TUR,China,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,10,0,10
+2015,CMR,TUR,Cameroon,Türkiye,U,UNHCR,AR,P,Persons,0,0,0,5,0,5
+2015,CMR,TUR,Cameroon,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,17,5,22
+2015,COG,TUR,Congo,Türkiye,U,UNHCR,AR,P,Persons,0,0,0,10,0,10
+2015,COG,TUR,Congo,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,64,5,69
+2015,COD,TUR,Democratic Republic of the Congo,Türkiye,U,UNHCR,AR,P,Persons,0,0,0,11,0,11
+2015,COD,TUR,Democratic Republic of the Congo,Türkiye,U,UNHCR,FI,P,Persons,0,5,0,22,10,37
+2015,ERI,TUR,Eritrea,Türkiye,U,UNHCR,AR,P,Persons,0,0,0,5,0,5
+2015,ERI,TUR,Eritrea,Türkiye,U,UNHCR,FI,P,Persons,0,18,0,39,0,57
+2015,ETH,TUR,Ethiopia,Türkiye,U,UNHCR,AR,P,Persons,0,0,0,5,0,5
+2015,ETH,TUR,Ethiopia,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,55,0,55
+2015,PSE,TUR,State of Palestine,Türkiye,U,UNHCR,FI,P,Persons,0,138,0,90,0,228
+2015,GHA,TUR,Ghana,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,10,0,10
+2015,GIN,TUR,Guinea,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,5,0,5
+2015,CIV,TUR,Côte d'Ivoire,Türkiye,U,UNHCR,AR,P,Persons,0,0,0,0,5,5
+2015,CIV,TUR,Côte d'Ivoire,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,29,5,34
+2015,IRN,TUR,Iran (Islamic Republic of),Türkiye,U,UNHCR,AR,P,Persons,0,355,0,160,313,828
+2015,IRN,TUR,Iran (Islamic Republic of),Türkiye,U,UNHCR,FI,P,Persons,0,3161,0,1896,661,5718
+2015,IRN,TUR,Iran (Islamic Republic of),Türkiye,U,UNHCR,RA,P,Persons,0,50,0,91,19,160
+2015,IRQ,TUR,Iraq,Türkiye,U,UNHCR,AR,P,Persons,0,12,0,23,5,40
+2015,IRQ,TUR,Iraq,Türkiye,U,UNHCR,FI,P,Persons,0,10628,0,10188,18,20834
+2015,IRQ,TUR,Iraq,Türkiye,U,UNHCR,RA,P,Persons,0,10,0,359,0,369
+2015,JOR,TUR,Jordan,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,12,0,12
+2015,KAZ,TUR,Kazakhstan,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,5,0,5
+2015,KEN,TUR,Kenya,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,11,0,11
+2015,KGZ,TUR,Kyrgyzstan,Türkiye,U,UNHCR,AR,P,Persons,0,0,0,0,5,5
+2015,KGZ,TUR,Kyrgyzstan,Türkiye,U,UNHCR,FI,P,Persons,0,5,0,11,5,21
+2015,KWT,TUR,Kuwait,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,5,0,5
+2015,LBY,TUR,Libya,Türkiye,U,UNHCR,FI,P,Persons,0,14,0,0,0,14
+2015,LBN,TUR,Lebanon,Türkiye,U,UNHCR,AR,P,Persons,0,0,0,5,0,5
+2015,LBN,TUR,Lebanon,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,0,12,12
+2015,LKA,TUR,Sri Lanka,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,5,0,5
+2015,MLI,TUR,Mali,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,10,0,10
+2015,MNG,TUR,Mongolia,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,24,0,24
+2015,MAR,TUR,Morocco,Türkiye,U,UNHCR,AR,P,Persons,0,13,0,0,0,13
+2015,MAR,TUR,Morocco,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,29,5,34
+2015,MMR,TUR,Myanmar,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,5,0,5
+2015,NPL,TUR,Nepal,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,5,0,5
+2015,NGA,TUR,Nigeria,Türkiye,U,UNHCR,AR,P,Persons,0,0,0,13,0,13
+2015,NGA,TUR,Nigeria,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,63,11,74
+2015,PAK,TUR,Pakistan,Türkiye,U,UNHCR,AR,P,Persons,0,0,0,5,0,5
+2015,PAK,TUR,Pakistan,Türkiye,U,UNHCR,FI,P,Persons,0,13,0,424,19,456
+2015,PHL,TUR,Philippines,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,5,0,5
+2015,RUS,TUR,Russian Federation,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,5,0,5
+2015,RWA,TUR,Rwanda,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,5,0,5
+2015,SEN,TUR,Senegal,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,14,0,14
+2015,SLE,TUR,Sierra Leone,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,10,0,10
+2015,SOM,TUR,Somalia,Türkiye,U,UNHCR,AR,P,Persons,0,0,0,14,0,14
+2015,SOM,TUR,Somalia,Türkiye,U,UNHCR,FI,P,Persons,0,118,0,399,5,522
+2015,SOM,TUR,Somalia,Türkiye,U,UNHCR,RA,P,Persons,0,5,0,5,0,10
+2015,SSD,TUR,South Sudan,Türkiye,U,UNHCR,FI,P,Persons,0,5,0,0,0,5
+2015,STA,TUR,Stateless,Türkiye,U,UNHCR,FI,P,Persons,0,5,0,25,0,30
+2015,SDN,TUR,Sudan,Türkiye,U,UNHCR,AR,P,Persons,0,0,0,5,5,10
+2015,SDN,TUR,Sudan,Türkiye,U,UNHCR,FI,P,Persons,0,31,0,107,0,138
+2015,SDN,TUR,Sudan,Türkiye,U,UNHCR,RA,P,Persons,0,5,0,0,0,5
+2015,TZA,TUR,United Republic of Tanzania,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,5,0,5
+2015,TJK,TUR,Tajikistan,Türkiye,U,UNHCR,FI,P,Persons,0,5,0,30,0,35
+2015,TKM,TUR,Turkmenistan,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,71,0,71
+2015,UGA,TUR,Uganda,Türkiye,U,UNHCR,AR,P,Persons,0,0,0,11,0,11
+2015,UGA,TUR,Uganda,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,217,16,233
+2015,UZB,TUR,Uzbekistan,Türkiye,U,UNHCR,AR,P,Persons,0,0,0,17,0,17
+2015,UZB,TUR,Uzbekistan,Türkiye,U,UNHCR,FI,P,Persons,0,5,0,86,10,101
+2015,YEM,TUR,Yemen,Türkiye,U,UNHCR,AR,P,Persons,0,23,0,5,0,28
+2015,YEM,TUR,Yemen,Türkiye,U,UNHCR,FI,P,Persons,0,40,0,94,0,134
+2016,AFG,TUR,Afghanistan,Türkiye,U,UNHCR,AR,P,Persons,0,37,0,68,5,110
+2016,AFG,TUR,Afghanistan,Türkiye,U,UNHCR,FI,P,Persons,0,1252,0,8872,0,10124
+2016,AFG,TUR,Afghanistan,Türkiye,U,UNHCR,RA,P,Persons,0,10,0,15,0,25
+2016,DZA,TUR,Algeria,Türkiye,U,UNHCR,AR,P,Persons,0,0,0,5,0,5
+2016,DZA,TUR,Algeria,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,5,0,5
+2016,EGY,TUR,Egypt,Türkiye,U,UNHCR,AR,P,Persons,0,0,0,5,0,5
+2016,EGY,TUR,Egypt,Türkiye,U,UNHCR,FI,P,Persons,0,25,0,44,29,98
+2016,BDI,TUR,Burundi,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,5,0,5
+2016,BGD,TUR,Bangladesh,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,233,0,233
+2016,CAF,TUR,Central African Republic,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,10,0,10
+2016,CHN,TUR,China,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,27,0,27
+2016,CMR,TUR,Cameroon,Türkiye,U,UNHCR,AR,P,Persons,0,0,0,5,0,5
+2016,CMR,TUR,Cameroon,Türkiye,U,UNHCR,FI,P,Persons,0,5,0,38,0,43
+2016,COG,TUR,Congo,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,147,0,147
+2016,COD,TUR,Democratic Republic of the Congo,Türkiye,U,UNHCR,AR,P,Persons,0,0,0,5,0,5
+2016,COD,TUR,Democratic Republic of the Congo,Türkiye,U,UNHCR,FI,P,Persons,0,14,0,123,5,142
+2016,ERI,TUR,Eritrea,Türkiye,U,UNHCR,FI,P,Persons,0,11,0,125,0,136
+2016,ETH,TUR,Ethiopia,Türkiye,U,UNHCR,FI,P,Persons,0,16,0,45,0,61
+2016,GAB,TUR,Gabon,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,5,0,5
+2016,GMB,TUR,Gambia,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,5,0,5
+2016,PSE,TUR,State of Palestine,Türkiye,U,UNHCR,FI,P,Persons,0,105,0,158,0,263
+2016,GHA,TUR,Ghana,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,13,0,13
+2016,GIN,TUR,Guinea,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,5,0,5
+2016,CIV,TUR,Côte d'Ivoire,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,19,0,19
+2016,IND,TUR,India,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,10,0,10
+2016,IRN,TUR,Iran (Islamic Republic of),Türkiye,U,UNHCR,AR,P,Persons,0,143,0,164,48,355
+2016,IRN,TUR,Iran (Islamic Republic of),Türkiye,U,UNHCR,FI,P,Persons,0,3764,0,2088,753,6605
+2016,IRN,TUR,Iran (Islamic Republic of),Türkiye,U,UNHCR,RA,P,Persons,0,39,0,21,16,76
+2016,IRQ,TUR,Iraq,Türkiye,U,UNHCR,AR,P,Persons,0,5,0,5,5,15
+2016,IRQ,TUR,Iraq,Türkiye,U,UNHCR,FI,P,Persons,0,12615,0,10887,36,23538
+2016,IRQ,TUR,Iraq,Türkiye,U,UNHCR,RA,P,Persons,0,5,0,93,0,98
+2016,JOR,TUR,Jordan,Türkiye,U,UNHCR,FI,P,Persons,0,5,0,16,0,21
+2016,KAZ,TUR,Kazakhstan,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,22,0,22
+2016,KGZ,TUR,Kyrgyzstan,Türkiye,U,UNHCR,AR,P,Persons,0,0,0,10,0,10
+2016,KGZ,TUR,Kyrgyzstan,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,16,0,16
+2016,LBY,TUR,Libya,Türkiye,U,UNHCR,FI,P,Persons,0,13,0,10,0,23
+2016,LBN,TUR,Lebanon,Türkiye,U,UNHCR,FI,P,Persons,0,5,0,19,0,24
+2016,LKA,TUR,Sri Lanka,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,5,0,5
+2016,MLI,TUR,Mali,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,5,5,10
+2016,MNG,TUR,Mongolia,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,33,0,33
+2016,MAR,TUR,Morocco,Türkiye,U,UNHCR,FI,P,Persons,0,5,0,13,0,18
+2016,MMR,TUR,Myanmar,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,5,0,5
+2016,NPL,TUR,Nepal,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,5,0,5
+2016,NGA,TUR,Nigeria,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,53,0,53
+2016,PAK,TUR,Pakistan,Türkiye,U,UNHCR,AR,P,Persons,0,0,0,14,0,14
+2016,PAK,TUR,Pakistan,Türkiye,U,UNHCR,FI,P,Persons,0,14,0,1828,0,1842
+2016,PHL,TUR,Philippines,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,5,0,5
+2016,SAU,TUR,Saudi Arabia,Türkiye,U,UNHCR,FI,P,Persons,0,5,0,0,0,5
+2016,SEN,TUR,Senegal,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,14,0,14
+2016,SLE,TUR,Sierra Leone,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,5,0,5
+2016,SOM,TUR,Somalia,Türkiye,U,UNHCR,AR,P,Persons,0,5,0,14,0,19
+2016,SOM,TUR,Somalia,Türkiye,U,UNHCR,FI,P,Persons,0,189,0,661,0,850
+2016,STA,TUR,Stateless,Türkiye,U,UNHCR,FI,P,Persons,0,14,0,0,0,14
+2016,SDN,TUR,Sudan,Türkiye,U,UNHCR,FI,P,Persons,0,30,0,38,5,73
+2016,SYR,TUR,Syrian Arab Republic,Türkiye,U,UNHCR,AR,P,Persons,0,0,0,14,0,14
+2016,SYR,TUR,Syrian Arab Republic,Türkiye,U,UNHCR,FI,P,Persons,0,10,0,128,0,138
+2016,TJK,TUR,Tajikistan,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,42,10,52
+2016,TKM,TUR,Turkmenistan,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,108,5,113
+2016,TUN,TUR,Tunisia,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,10,0,10
+2016,ARE,TUR,United Arab Emirates,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,5,0,5
+2016,UGA,TUR,Uganda,Türkiye,U,UNHCR,AR,P,Persons,0,0,0,5,0,5
+2016,UGA,TUR,Uganda,Türkiye,U,UNHCR,FI,P,Persons,0,5,0,155,27,187
+2016,UZB,TUR,Uzbekistan,Türkiye,U,UNHCR,AR,P,Persons,0,0,0,10,0,10
+2016,UZB,TUR,Uzbekistan,Türkiye,U,UNHCR,FI,P,Persons,0,5,0,109,0,114
+2016,YEM,TUR,Yemen,Türkiye,U,UNHCR,FI,P,Persons,0,74,0,91,0,165
+2017,AFG,TUR,Afghanistan,Türkiye,U,UNHCR,AR,P,Persons,0,16,0,12,0,28
+2017,AFG,TUR,Afghanistan,Türkiye,U,UNHCR,FI,P,Persons,0,2670,0,21532,0,24202
+2017,AFG,TUR,Afghanistan,Türkiye,U,UNHCR,RA,P,Persons,0,0,0,10,0,10
+2017,DZA,TUR,Algeria,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,10,0,10
+2017,AGO,TUR,Angola,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,5,0,5
+2017,EGY,TUR,Egypt,Türkiye,U,UNHCR,FI,P,Persons,0,5,0,25,0,30
+2017,BDI,TUR,Burundi,Türkiye,U,UNHCR,FI,P,Persons,0,5,0,5,0,10
+2017,BGD,TUR,Bangladesh,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,21,0,21
+2017,CHN,TUR,China,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,5,0,5
+2017,CMR,TUR,Cameroon,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,31,0,31
+2017,COG,TUR,Congo,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,63,0,63
+2017,COD,TUR,Democratic Republic of the Congo,Türkiye,U,UNHCR,FI,P,Persons,0,5,0,68,5,78
+2017,DJI,TUR,Djibouti,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,5,0,5
+2017,DOM,TUR,Dominican Republic,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,5,0,5
+2017,ERI,TUR,Eritrea,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,24,0,24
+2017,ETH,TUR,Ethiopia,Türkiye,U,UNHCR,FI,P,Persons,0,10,0,62,0,72
+2017,PSE,TUR,State of Palestine,Türkiye,U,UNHCR,FI,P,Persons,0,160,0,213,0,373
+2017,GHA,TUR,Ghana,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,5,0,5
+2017,GIN,TUR,Guinea,Türkiye,U,UNHCR,FI,P,Persons,0,5,0,5,0,10
+2017,CIV,TUR,Côte d'Ivoire,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,5,0,5
+2017,IRN,TUR,Iran (Islamic Republic of),Türkiye,U,UNHCR,AR,P,Persons,0,54,0,85,18,157
+2017,IRN,TUR,Iran (Islamic Republic of),Türkiye,U,UNHCR,FI,P,Persons,0,2143,0,5848,785,8776
+2017,IRN,TUR,Iran (Islamic Republic of),Türkiye,U,UNHCR,RA,P,Persons,0,5,0,52,10,67
+2017,IRQ,TUR,Iraq,Türkiye,U,UNHCR,AR,P,Persons,0,5,0,0,0,5
+2017,IRQ,TUR,Iraq,Türkiye,U,UNHCR,FI,P,Persons,0,10200,0,18318,5,28523
+2017,IRQ,TUR,Iraq,Türkiye,U,UNHCR,RA,P,Persons,0,5,0,11,0,16
+2017,JOR,TUR,Jordan,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,13,0,13
+2017,KAZ,TUR,Kazakhstan,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,17,0,17
+2017,KEN,TUR,Kenya,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,5,0,5
+2017,KGZ,TUR,Kyrgyzstan,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,31,0,31
+2017,KWT,TUR,Kuwait,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,5,0,5
+2017,LBY,TUR,Libya,Türkiye,U,UNHCR,AR,P,Persons,0,0,0,10,0,10
+2017,LBY,TUR,Libya,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,10,0,10
+2017,LBN,TUR,Lebanon,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,5,0,5
+2017,LKA,TUR,Sri Lanka,Türkiye,U,UNHCR,FI,P,Persons,0,5,0,0,0,5
+2017,MLI,TUR,Mali,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,5,0,5
+2017,MNG,TUR,Mongolia,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,20,0,20
+2017,MAR,TUR,Morocco,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,18,0,18
+2017,MMR,TUR,Myanmar,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,10,0,10
+2017,NGA,TUR,Nigeria,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,28,0,28
+2017,PAK,TUR,Pakistan,Türkiye,U,UNHCR,FI,P,Persons,0,10,0,97,5,112
+2017,ROU,TUR,Romania,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,5,0,5
+2017,RUS,TUR,Russian Federation,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,5,0,5
+2017,SEN,TUR,Senegal,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,5,0,5
+2017,SLE,TUR,Sierra Leone,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,12,0,12
+2017,SOM,TUR,Somalia,Türkiye,U,UNHCR,AR,P,Persons,0,5,0,0,0,5
+2017,SOM,TUR,Somalia,Türkiye,U,UNHCR,FI,P,Persons,0,83,0,432,5,520
+2017,SDN,TUR,Sudan,Türkiye,U,UNHCR,FI,P,Persons,0,10,0,22,0,32
+2017,SYR,TUR,Syrian Arab Republic,Türkiye,U,UNHCR,FI,P,Persons,0,5,0,30,0,35
+2017,TJK,TUR,Tajikistan,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,37,0,37
+2017,TKM,TUR,Turkmenistan,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,123,0,123
+2017,TUN,TUR,Tunisia,Türkiye,U,UNHCR,FI,P,Persons,0,5,0,12,0,17
+2017,ARE,TUR,United Arab Emirates,Türkiye,U,UNHCR,FI,P,Persons,0,5,0,0,0,5
+2017,UGA,TUR,Uganda,Türkiye,U,UNHCR,AR,P,Persons,0,0,0,5,0,5
+2017,UGA,TUR,Uganda,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,152,11,163
+2017,UKN,TUR,Various / unknown,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,13,0,13
+2017,UZB,TUR,Uzbekistan,Türkiye,U,UNHCR,FI,P,Persons,0,5,0,143,0,148
+2017,YEM,TUR,Yemen,Türkiye,U,UNHCR,FI,P,Persons,0,13,0,16,0,29
+2018,AFG,TUR,Afghanistan,Türkiye,U,UNHCR,FI,P,Persons,0,1155,0,44773,0,45928
+2018,AFG,TUR,Afghanistan,Türkiye,U,UNHCR,RA,P,Persons,0,0,0,5,0,5
+2018,DZA,TUR,Algeria,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,5,0,5
+2018,EGY,TUR,Egypt,Türkiye,U,UNHCR,FI,P,Persons,0,10,0,19,0,29
+2018,BDI,TUR,Burundi,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,5,0,5
+2018,BGD,TUR,Bangladesh,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,43,0,43
+2018,CAF,TUR,Central African Republic,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,5,0,5
+2018,CHN,TUR,China,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,5,0,5
+2018,CMR,TUR,Cameroon,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,25,0,25
+2018,COG,TUR,Congo,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,30,0,30
+2018,COD,TUR,Democratic Republic of the Congo,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,44,0,44
+2018,ERI,TUR,Eritrea,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,10,0,10
+2018,ETH,TUR,Ethiopia,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,56,0,56
+2018,PSE,TUR,State of Palestine,Türkiye,U,UNHCR,FI,P,Persons,0,103,0,138,0,241
+2018,GHA,TUR,Ghana,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,5,0,5
+2018,CIV,TUR,Côte d'Ivoire,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,5,0,5
+2018,IRN,TUR,Iran (Islamic Republic of),Türkiye,U,UNHCR,AR,P,Persons,0,31,0,19,17,67
+2018,IRN,TUR,Iran (Islamic Republic of),Türkiye,U,UNHCR,FI,P,Persons,0,640,0,819,359,1818
+2018,IRN,TUR,Iran (Islamic Republic of),Türkiye,U,UNHCR,RA,P,Persons,0,5,0,0,0,5
+2018,IRQ,TUR,Iraq,Türkiye,U,UNHCR,FI,P,Persons,0,2918,0,29056,0,31974
+2018,JOR,TUR,Jordan,Türkiye,U,UNHCR,FI,P,Persons,0,5,0,12,0,17
+2018,KAZ,TUR,Kazakhstan,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,21,0,21
+2018,KGZ,TUR,Kyrgyzstan,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,21,0,21
+2018,LBY,TUR,Libya,Türkiye,U,UNHCR,FI,P,Persons,0,5,0,14,0,19
+2018,LBN,TUR,Lebanon,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,5,0,5
+2018,MLI,TUR,Mali,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,5,0,5
+2018,MNG,TUR,Mongolia,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,10,0,10
+2018,MAR,TUR,Morocco,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,21,0,21
+2018,NGA,TUR,Nigeria,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,21,0,21
+2018,PAK,TUR,Pakistan,Türkiye,U,UNHCR,FI,P,Persons,0,5,0,40,5,50
+2018,RWA,TUR,Rwanda,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,5,0,5
+2018,SEN,TUR,Senegal,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,5,0,5
+2018,SLE,TUR,Sierra Leone,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,10,0,10
+2018,SOM,TUR,Somalia,Türkiye,U,UNHCR,FI,P,Persons,0,32,0,345,0,377
+2018,STA,TUR,Stateless,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,11,0,11
+2018,SDN,TUR,Sudan,Türkiye,U,UNHCR,FI,P,Persons,0,5,0,27,5,37
+2018,SYR,TUR,Syrian Arab Republic,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,56,0,56
+2018,TJK,TUR,Tajikistan,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,51,0,51
+2018,TKM,TUR,Turkmenistan,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,62,0,62
+2018,TUN,TUR,Tunisia,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,5,0,5
+2018,UGA,TUR,Uganda,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,99,0,99
+2018,UZB,TUR,Uzbekistan,Türkiye,U,UNHCR,FI,P,Persons,0,0,0,50,0,50
+2018,YEM,TUR,Yemen,Türkiye,U,UNHCR,FI,P,Persons,0,15,0,50,0,65
+2018,ZWE,TUR,Zimbabwe,Türkiye,U,UNHCR,FI,P,Persons,0,5,0,0,0,5
+2019,AFG,TUR,Afghanistan,Türkiye,G,Government,FI,P,Persons,0,2387,0,11224,2515,16126
+2019,IRN,TUR,Iran (Islamic Republic of),Türkiye,G,Government,FI,P,Persons,0,872,0,4711,350,5933
+2019,IRQ,TUR,Iraq,Türkiye,G,Government,FI,P,Persons,0,2011,0,25128,2111,29250
+2019,UKN,TUR,Various / unknown,Türkiye,G,Government,FI,P,Persons,0,175,0,2226,236,2637
+2020,AFG,TUR,Afghanistan,Türkiye,G,Government,FI,P,Persons,0,3249,0,8432,5348,17029
+2020,IRN,TUR,Iran (Islamic Republic of),Türkiye,G,Government,FI,P,Persons,0,1231,0,3081,791,5103
+2020,IRQ,TUR,Iraq,Türkiye,G,Government,FI,P,Persons,0,3887,0,12976,4196,21059
+2020,UKN,TUR,Various / unknown,Türkiye,G,Government,FI,P,Persons,0,386,0,2597,339,3322
+2021,AFG,TUR,Afghanistan,Türkiye,G,Government,FI,P,Persons,0,4340,0,6800,2828,13968
+2021,IRN,TUR,Iran (Islamic Republic of),Türkiye,G,Government,FI,P,Persons,0,2535,0,2105,1759,6399
+2021,IRQ,TUR,Iraq,Türkiye,G,Government,FI,P,Persons,0,5213,0,12198,5934,23345
+2021,UKN,TUR,Various / unknown,Türkiye,G,Government,FI,P,Persons,0,1139,0,236,1387,2762
+2022,AFG,TUR,Afghanistan,Türkiye,G,Government,FI,P,Persons,0,4916,0,17732,2879,25527
+2022,IRN,TUR,Iran (Islamic Republic of),Türkiye,G,Government,FI,P,Persons,0,1518,0,4106,1873,7497
+2022,IRQ,TUR,Iraq,Türkiye,G,Government,FI,P,Persons,0,3103,0,17164,6662,26929
+2022,UKN,TUR,Various / unknown,Türkiye,G,Government,FI,P,Persons,0,552,0,5677,616,6845
+2022,UKR,TUR,Ukraine,Türkiye,G,Government,FI,P,Persons,0,2768,0,0,0,2768
+2023,AFG,TUR,Afghanistan,Türkiye,G,Government,FI,P,Persons,0,5144,0,30496,4826,40466
+2023,IRN,TUR,Iran (Islamic Republic of),Türkiye,G,Government,FI,P,Persons,0,1080,0,3379,1390,5849
+2023,IRQ,TUR,Iraq,Türkiye,G,Government,FI,P,Persons,0,2604,0,21773,5026,29403
+2023,UKN,TUR,Various / unknown,Türkiye,G,Government,FI,P,Persons,0,316,0,1590,540,2446
+2023,UKR,TUR,Ukraine,Türkiye,G,Government,FI,P,Persons,0,822,0,2079,5,2906
