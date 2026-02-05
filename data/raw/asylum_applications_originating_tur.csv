@@ -1710,3 +1710,78 @@ Year,Country of Origin Code,Country of Asylum Code,Country of Origin Name,Countr
 2024,TUR,USA,Türkiye,United States of America,G,Government,A,Appeal,P,Persons,0,34
 2024,TUR,USA,Türkiye,United States of America,G,Government,N,New,P,Persons,0,5145
 2024,TUR,USA,Türkiye,United States of America,G,Government,N,New,P,Persons,0,3099
+2025,TUR,ARG,Türkiye,Argentina,G,Government,N,New,P,Persons,0,6
+2025,TUR,ARM,Türkiye,Armenia,G,Government,N,New,P,Persons,0,5
+2025,TUR,ARM,Türkiye,Armenia,G,Government,N,New,P,Persons,0,5
+2025,TUR,AUS,Türkiye,Australia,G,Government,A,Appeal,C,Cases,0,11
+2025,TUR,AUS,Türkiye,Australia,G,Government,NR,New and repeat,P,Persons,0,138
+2025,TUR,AUT,Türkiye,Austria,G,Government,N,New,P,Persons,0,275
+2025,TUR,AUT,Türkiye,Austria,G,Government,R,Repeat,P,Persons,0,109
+2025,TUR,BEL,Türkiye,Belgium,G,Government,N,New,P,Persons,0,939
+2025,TUR,BEL,Türkiye,Belgium,G,Government,A,Appeal,P,Persons,0,294
+2025,TUR,BEL,Türkiye,Belgium,G,Government,R,Repeat,P,Persons,0,117
+2025,TUR,BRA,Türkiye,Brazil,G,Government,N,New,P,Persons,0,44
+2025,TUR,BIH,Türkiye,Bosnia and Herzegovina,G,Government,N,New,P,Persons,0,19
+2025,TUR,BGR,Türkiye,Bulgaria,G,Government,NR,New and repeat,P,Persons,0,32
+2025,TUR,CAN,Türkiye,Canada,G,Government,A,Appeal,P,Persons,0,126
+2025,TUR,CAN,Türkiye,Canada,G,Government,N,New,P,Persons,0,740
+2025,TUR,CAN,Türkiye,Canada,G,Government,R,Repeat,P,Persons,0,5
+2025,TUR,CYP,Türkiye,Cyprus,G,Government,N,New,P,Persons,0,16
+2025,TUR,CYP,Türkiye,Cyprus,G,Government,R,Repeat,P,Persons,0,5
+2025,TUR,CYP,Türkiye,Cyprus,G,Government,A,Appeal,P,Persons,0,8
+2025,TUR,CZE,Türkiye,Czechia,G,Government,N,New,P,Persons,0,18
+2025,TUR,CZE,Türkiye,Czechia,G,Government,R,Repeat,P,Persons,0,18
+2025,TUR,DNK,Türkiye,Denmark,G,Government,A,Appeal,P,Persons,0,5
+2025,TUR,DNK,Türkiye,Denmark,G,Government,N,New,P,Persons,0,59
+2025,TUR,FIN,Türkiye,Finland,G,Government,A,Appeal,P,Persons,0,64
+2025,TUR,FIN,Türkiye,Finland,G,Government,N,New,P,Persons,0,38
+2025,TUR,FIN,Türkiye,Finland,G,Government,R,Repeat,P,Persons,0,12
+2025,TUR,FRA,Türkiye,France,G,Government,A,Appeal,P,Persons,0,2707
+2025,TUR,FRA,Türkiye,France,G,Government,N,New,P,Persons,0,2096
+2025,TUR,FRA,Türkiye,France,G,Government,RA,Repeat/reopened,P,Persons,0,1455
+2025,TUR,GBR,Türkiye,United Kingdom of Great Britain and Northern Ireland,G,Government,N,New,P,Persons,0,906
+2025,TUR,GBR,Türkiye,United Kingdom of Great Britain and Northern Ireland,G,Government,R,Repeat,P,Persons,0,96
+2025,TUR,GEO,Türkiye,Georgia,G,Government,N,New,P,Persons,0,118
+2025,TUR,DEU,Türkiye,Germany,G,Government,N,New,P,Persons,0,6438
+2025,TUR,DEU,Türkiye,Germany,G,Government,A,Appeal,P,Persons,0,25818
+2025,TUR,DEU,Türkiye,Germany,G,Government,R,Repeat,P,Persons,0,1255
+2025,TUR,GRC,Türkiye,Greece,G,Government,A,Appeal,P,Persons,0,131
+2025,TUR,GRC,Türkiye,Greece,G,Government,N,New,P,Persons,0,810
+2025,TUR,GRC,Türkiye,Greece,G,Government,R,Repeat,P,Persons,0,64
+2025,TUR,HRV,Türkiye,Croatia,G,Government,N,New,P,Persons,0,139
+2025,TUR,HUN,Türkiye,Hungary,G,Government,N,New,P,Persons,0,5
+2025,TUR,ISL,Türkiye,Iceland,G,Government,A,Appeal,P,Persons,0,5
+2025,TUR,IRL,Türkiye,Ireland,G,Government,A,Appeal,P,Persons,0,5
+2025,TUR,IRL,Türkiye,Ireland,G,Government,N,New,P,Persons,0,5
+2025,TUR,ITA,Türkiye,Italy,G,Government,N,New,P,Persons,0,529
+2025,TUR,ITA,Türkiye,Italy,G,Government,R,Repeat,P,Persons,0,8
+2025,TUR,KEN,Türkiye,Kenya,G,Government,N,New,P,Persons,0,10
+2025,TUR,KGZ,Türkiye,Kyrgyzstan,G,Government,N,New,P,Persons,0,6
+2025,TUR,KOR,Türkiye,Republic of Korea,G,Government,A,Appeal,P,Persons,0,177
+2025,TUR,KOR,Türkiye,Republic of Korea,G,Government,N,New,P,Persons,0,199
+2025,TUR,LTU,Türkiye,Lithuania,G,Government,N,New,P,Persons,0,5
+2025,TUR,LUX,Türkiye,Luxembourg,G,Government,N,New,P,Persons,0,30
+2025,TUR,MKD,Türkiye,North Macedonia,G,Government,N,New,P,Persons,0,13
+2025,TUR,MDA,Türkiye,Republic of Moldova,G,Government,N,New,P,Persons,0,15
+2025,TUR,MDA,Türkiye,Republic of Moldova,G,Government,A,Appeal,P,Persons,0,9
+2025,TUR,MNE,Türkiye,Montenegro,G,Government,N,New,P,Persons,0,9
+2025,TUR,NLD,Türkiye,Netherlands (Kingdom of the),G,Government,N,New,P,Persons,0,635
+2025,TUR,NLD,Türkiye,Netherlands (Kingdom of the),G,Government,R,Repeat,P,Persons,0,31
+2025,TUR,NOR,Türkiye,Norway,G,Government,A,Appeal,P,Persons,0,66
+2025,TUR,NOR,Türkiye,Norway,G,Government,N,New,P,Persons,0,58
+2025,TUR,NOR,Türkiye,Norway,G,Government,R,Repeat,P,Persons,0,6
+2025,TUR,NZL,Türkiye,New Zealand,G,Government,N,New,P,Persons,0,5
+2025,TUR,PER,Türkiye,Peru,G,Government,N,New,P,Persons,0,5
+2025,TUR,POL,Türkiye,Poland,G,Government,R,Repeat,P,Persons,0,10
+2025,TUR,POL,Türkiye,Poland,G,Government,A,Appeal,P,Persons,0,6
+2025,TUR,POL,Türkiye,Poland,G,Government,N,New,P,Persons,0,25
+2025,TUR,PRT,Türkiye,Portugal,G,Government,N,New,P,Persons,0,7
+2025,TUR,ROU,Türkiye,Romania,G,Government,N,New,P,Persons,0,16
+2025,TUR,ESP,Türkiye,Spain,G,Government,N,New,P,Persons,0,8
+2025,TUR,SRB,Türkiye,Serbia,G,Government,N,New,P,Persons,0,5
+2025,TUR,SVN,Türkiye,Slovenia,G,Government,N,New,P,Persons,0,24
+2025,TUR,SWE,Türkiye,Sweden,G,Government,A,Appeal,P,Persons,0,104
+2025,TUR,SWE,Türkiye,Sweden,G,Government,N,New,P,Persons,0,145
+2025,TUR,SWE,Türkiye,Sweden,G,Government,R,Repeat,P,Persons,0,45
+2025,TUR,CHE,Türkiye,Switzerland,G,Government,N,New,P,Persons,0,1042
+2025,TUR,CHE,Türkiye,Switzerland,G,Government,R,Repeat,P,Persons,0,196
